@@ -41,10 +41,15 @@
 
 2. 本工程调用了OPENAI及LangChain接口，需要配置环境
 
+1. #导入openai库
+
    ```shell
-   #导入openai库
    !pip install openai
+   ```
+
    #导入langchain库
+
+   ```shell
    !pip install langchain
    ```
 
