@@ -1,0 +1,4 @@
+您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。概述汇总类型定义函数raw_file_manager.h 更新时间: 2024-02-07 14:08 毫无帮助帮助不大一般很好非常好
+分享
+  概述提供资源管理rawfile相关功能。 可以使用resource manager打开rawfile来进行后续相关操作，像搜索和读取等。 起始版本： 8 相关模块： Rawfile  汇总 类型定义  类型定义名称 描述 NativeResourceManager 代表resource manager     函数  函数名称 描述 OH_ResourceManager_InitNativeResourceManager (napi_env env, napi_value jsResMgr) 基于JavaScipt resource manager获取native resource manager  OH_ResourceManager_ReleaseNativeResourceManager (NativeResourceManager *resMgr) 释放native resource manager  OH_ResourceManager_OpenRawDir (const NativeResourceManager *mgr, const char *dirName) 打开rawfile目录  OH_ResourceManager_OpenRawFile (const NativeResourceManager *mgr, const char *fileName) 打开rawfile文件      上一篇 raw_dir.h 下一篇 raw_file.h 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。

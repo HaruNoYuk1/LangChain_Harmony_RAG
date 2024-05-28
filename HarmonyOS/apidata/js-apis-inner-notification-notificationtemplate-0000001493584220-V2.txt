@@ -1,0 +1,7 @@
+您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。NotificationTemplate 更新时间: 2024-03-18 17:33 毫无帮助帮助不大一般很好非常好
+分享
+ 通知模板。 
+说明
+ 本模块首批接口从API version 8开始支持。后续版本的新增接口，采用上角标单独标记接口的起始版本。 
+ 系统能力：以下各项对应的系统能力均为SystemCapability.Notification.Notification 名称 类型 可读 可写 说明   name string 是 是 模板名称。  data {[key:string]: Object} 是 是 模板数据。     上一篇 NotificationSlot 下一篇 NotificationUserInput 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。

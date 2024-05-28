@@ -1,0 +1,10 @@
+您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。导入模块font.registerFontFontOptions@ohos.font (注册自定义字体) 更新时间: 2024-03-18 17:33 毫无帮助帮助不大一般很好非常好
+分享
+ 本模块提供注册自定义字体。 
+说明
+本模块首批接口从API version 9开始支持。后续版本的新增接口，采用上角标单独标记接口的起始版本。 
+ 导入模块已复制import font from '@ohos.font'  font.registerFontregisterFont(options: FontOptions): void 在字体管理中注册自定义字体。 系统能力： SystemCapability.ArkUI.ArkUI.Full 参数： 参数名  类型  必填  说明    options  FontOptions  是  注册的自定义字体信息。      FontOptions系统能力： SystemCapability.ArkUI.ArkUI.Full 名称  类型  必填  说明    familyName  string  是  设置注册的字体名称。   familySrc  string  是  设置注册字体文件的路径。     示例：  已复制// xxx.etsimport font from '@ohos.font';
+@Entry@Componentstruct FontExample {  @State message: string = '你好，世界'
+  aboutToAppear() {    font.registerFont({      familyName: 'medium',      familySrc: '/font/medium.ttf' // font文件与pages目录同级    })  }
+  build() {    Column() {      Text(this.message)        .align(Alignment.Center)        .fontSize(20)        .fontFamily('medium') // medium：注册自定义字体的名字        .height('100%')    }.width('100%')  }}   上一篇 @ohos.router (页面路由) 下一篇 @ohos.measure (文本计算) 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。

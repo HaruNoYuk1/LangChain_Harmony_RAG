@@ -1,0 +1,25 @@
+您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。导入模块screenLock.isScreenLocked(deprecated)screenLock.isScreenLocked(deprecated)screenLock.isSecureMode(deprecated)screenLock.isSecureMode(deprecated)screenLock.unlockScreen(deprecated)screenLock.unlockScreen(deprecated)@ohos.screenLock (锁屏管理) 更新时间: 2024-03-18 17:33 毫无帮助帮助不大一般很好非常好
+分享
+ 锁屏管理服务是HarmonyOS中的系统服务，为锁屏应用提供注册亮屏、灭屏、开启屏幕、结束休眠、退出动画、请求解锁结果监听，并提供回调结果给锁屏应用。锁屏管理服务向三方应用提供请求解锁、查询锁屏状态、查询是否设置锁屏密码的能力。 
+说明
+本模块首批接口从API version 7开始支持。后续版本的新增接口，采用上角标单独标记接口的起始版本。 
+ 导入模块已复制import screenLock from '@ohos.screenLock';  screenLock.isScreenLocked(deprecated)isScreenLocked(callback: AsyncCallback<boolean>): void 判断屏幕是否锁屏。使用callback异步回调。 
+说明
+从API version 7开始支持，从API version 9开始废弃。 
+ 系统能力： SystemCapability.MiscServices.ScreenLock 参数： 参数名  类型  必填  说明    callback  AsyncCallback<boolean>  是  回调函数。返回true表示屏幕已锁屏；返回false表示屏幕未锁屏。     示例： 已复制screenLock.isScreenLocked((err, data)=>{          if (err) {        console.error(`Failed to obtain whether the screen is locked, because: ${err.message}`);        return;        }    console.info(`Obtain whether the screen is locked successfully. result: ${data}`);});  screenLock.isScreenLocked(deprecated)isScreenLocked(): Promise<boolean> 判断屏幕是否锁屏。使用Promise异步回调。 
+说明
+从API version 7开始支持，从API version 9开始废弃。 
+ 系统能力： SystemCapability.MiscServices.ScreenLock 返回值：  类型  说明  Promise<boolean>  Promise对象。返回true表示屏幕已锁屏；返回false表示屏幕未锁屏。     示例： 已复制screenLock.isScreenLocked().then((data) => {    console.info(`Obtain whether the screen is locked successfully. result: ${data}`);}).catch((err) => {    console.error(`Failed to obtain whether the screen is locked, because: ${err.message}`);});  screenLock.isSecureMode(deprecated)isSecureMode(callback: AsyncCallback<boolean>): void 判断当前设备的屏幕锁定是否安全（安全屏幕锁定意味着解锁屏幕需要密码、图案或其他用户身份识别）。使用callback异步回调。 
+说明
+从API version 7开始支持，从API version 9开始废弃。 
+ 系统能力： SystemCapability.MiscServices.ScreenLock 参数： 参数名  类型  必填  说明    callback  AsyncCallback<boolean>  是  回调函数。返回true表示当前设备的屏幕锁定安全；返回false表示当前设备的屏幕锁定不安全。     示例： 已复制screenLock.isSecureMode((err, data)=>{    if (err) {        console.error(`Failed to obtain whether the device is in secure mode, because: ${err.message}`);        return;    }    console.info(`Obtain whether the device is in secure mode successfully. result: ${data}`);});  screenLock.isSecureMode(deprecated)isSecureMode(): Promise<boolean> 判断当前设备的屏幕锁定是否安全（安全屏幕锁定意味着解锁屏幕需要密码、图案或其他用户身份识别）。使用Promise异步回调。 
+说明
+从API version 7开始支持，从API version 9开始废弃。 
+ 系统能力： SystemCapability.MiscServices.ScreenLock 返回值：  类型  说明  Promise<boolean>  Promise对象。返回true表示当前设备的屏幕锁定安全；返回false表示当前设备的屏幕锁定不安全。     示例： 已复制screenLock.isSecureMode().then((data) => {    console.info(`Obtain whether the device is in secure mode successfully. result: ${data}`);}).catch((err) => {    console.error(`Failed to obtain whether the device is in secure mode, because: ${err.message}`);});  screenLock.unlockScreen(deprecated)unlockScreen(callback: AsyncCallback<void>): void 解锁屏幕。使用callback异步回调。 
+说明
+从API version 7开始支持，从API version 9开始废弃。 
+ 系统能力： SystemCapability.MiscServices.ScreenLock 参数： 参数名  类型  必填  说明    callback  AsyncCallback<void>  是  回调函数。解锁屏幕成功，err为undefined，否则为错误对象。     示例： 已复制screenLock.unlockScreen((err) => {          if (err) {        console.error(`Failed to unlock the screen, Code: ${err.code}, message: ${err.message}`);        return;        }    console.info('unlock the screen successfully.');});  screenLock.unlockScreen(deprecated)unlockScreen(): Promise<void> 解锁屏幕。使用Promise异步回调。 
+说明
+从API version 7开始支持，从API version 9开始废弃。 
+ 系统能力： SystemCapability.MiscServices.ScreenLock 返回值：  类型  说明  Promise<void>  Promise对象。无返回结果的Promise对象。     示例： 已复制screenLock.unlockScreen().then(() => {    console.info('unlock the screen successfully.');}).catch((err) => {    console.error(`Failed to unlock the screen, Code: ${err.code}, message: ${err.message}`);});   上一篇 @ohos.pasteboard (剪贴板) 下一篇 @ohos.systemDateTime (系统时间、时区) 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。

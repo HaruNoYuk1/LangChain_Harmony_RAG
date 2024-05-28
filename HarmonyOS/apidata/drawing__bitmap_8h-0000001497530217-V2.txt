@@ -1,0 +1,4 @@
+您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。概述汇总结构体函数drawing_bitmap.h 更新时间: 2024-02-07 14:08 毫无帮助帮助不大一般很好非常好
+分享
+  概述文件中定义了与位图相关的功能函数。 起始版本： 8 相关模块： Drawing  汇总 结构体  结构体名称 描述 OH_Drawing_BitmapFormat 结构体用于描述位图像素的格式，包括颜色类型和透明度类型     函数  函数名称 描述 OH_Drawing_BitmapCreate (void) 函数用于创建一个位图对象。  OH_Drawing_BitmapDestroy (OH_Drawing_Bitmap *) 函数用于销毁位图对象并回收该对象占有内存。  OH_Drawing_BitmapBuild (OH_Drawing_Bitmap *, const uint32_t width, const uint32_t height, const OH_Drawing_BitmapFormat *) 函数用于初始化位图对象的宽度和高度，并且为该位图设置像素格式  OH_Drawing_BitmapGetWidth (OH_Drawing_Bitmap *) 该函数用于获取指定位图的宽度  OH_Drawing_BitmapGetHeight (OH_Drawing_Bitmap *) 函数用于获取指定位图的高度  OH_Drawing_BitmapGetPixels (OH_Drawing_Bitmap *) 函数用于获取指定位图的像素地址，可以通过像素地址获取到位图的像素数据      上一篇 头文件 下一篇 drawing_brush.h 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。

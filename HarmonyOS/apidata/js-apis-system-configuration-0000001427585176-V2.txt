@@ -1,0 +1,6 @@
+您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。导入模块configuration.getLocaleLocaleResponse@system.configuration (应用配置) 更新时间: 2024-03-18 17:33 毫无帮助帮助不大一般很好非常好
+分享
+说明
+ 从API Version 7 开始，该接口不再维护，推荐使用新接口@ohos.i18n和@ohos.intl。 本模块首批接口从API version 3开始支持。后续版本的新增接口，采用上角标单独标记接口的起始版本。  
+ 导入模块已复制import configuration from '@system.configuration';  configuration.getLocalestatic getLocale(): LocaleResponse 获取应用当前的语言和地区。默认与系统的语言和地区同步。 系统能力： SystemCapability.ArkUI.ArkUI.Lite 返回值：  类型 说明 LocaleResponse 应用当前Locale相关信息。    示例： 已复制export default {      getLocale() {            const localeInfo = configuration.getLocale();            console.info(localeInfo.language);      }}  LocaleResponse表示应用当前Locale的属性。 系统能力：以下各项对应的系统能力均为SystemCapability.ArkUI.ArkUI.Lite 名称 参数类型 可读 可写 说明   language string 是 否 语言。例如：zh。  countryOrRegion string 是 否 国家或地区。例如：CN。  dir string 是 否 文字布局方向。取值范围： - ltr：从左到右； - rtl：从右到左。       上一篇 @system.cipher (加密算法) 下一篇 @system.device (设备信息) 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。

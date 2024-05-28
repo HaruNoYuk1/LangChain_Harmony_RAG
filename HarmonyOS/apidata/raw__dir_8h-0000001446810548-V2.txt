@@ -1,0 +1,4 @@
+您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。概述汇总类型定义函数raw_dir.h 更新时间: 2024-02-07 14:08 毫无帮助帮助不大一般很好非常好
+分享
+  概述提供rawfile目录相关功能。 功能包括遍历和关闭rawfile目录。 起始版本： 8 相关模块： Rawfile  汇总 类型定义  类型定义名称 描述 RawDir 提供对rawfile目录的访问     函数  函数名称 描述 OH_ResourceManager_GetRawFileName (RawDir *rawDir, int index) 通过索引获取rawfile文件名称  OH_ResourceManager_GetRawFileCount (RawDir *rawDir) 获取RawDir中的rawfile数量  OH_ResourceManager_CloseRawDir (RawDir *rawDir) 关闭已打开的RawDir并释放所有相关联资源      上一篇 native_vsync.h 下一篇 raw_file_manager.h 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。

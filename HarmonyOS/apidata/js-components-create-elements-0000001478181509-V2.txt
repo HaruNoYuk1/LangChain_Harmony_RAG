@@ -1,0 +1,10 @@
+您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。createElementsetAttributesetStyleaddChild示例动态创建组件 更新时间: 2024-03-18 17:33 毫无帮助帮助不大一般很好非常好
+分享
+ 提供在页面中动态添加组件，并为动态添加的组件设置属性与样式的能力。 
+说明
+ 从API version 8开始支持。后续版本如有新增内容，则采用上角标单独标记该内容的起始版本。 
+ createElementcreateElement(tag: string): Element 创建一个组件对象。 参数：  参数名 类型 必填 说明   tag string 是 组件名称。    返回值：   类型 说明 Element 对应tag名称的组件对象。    已复制let newImage = dom.createElement('image')  setAttributesetAttribute(name: string, value: string): void 动态设置组件的属性。 参数：  参数名 类型 必填 说明   name string 是 属性名称。  value string 是 属性值。    已复制newImage.setAttribute('src', 'common/testImage.jpg')  setStylesetStyle(name: string, value: string): boolean 动态设置组件的样式。 参数：  参数名 类型 必填 说明   name string 是 样式名称。  value string 是 样式值。    返回值：   类型 说明 boolean 设置成功时返回true，失败时返回false。    已复制newImage.setStyle('width', '120px')  addChildaddChild(child: Element): void 将动态创建的组件添加到父组件当中。 参数：  参数名 类型 必填 说明   child Element 是 组件对象。    已复制newDiv.addChild(newImage)  示例已复制<!-- xxx.hml --><div class="container">  <div id="parentDiv" class="parent"></div>  <button onclick="appendDiv" class="btn">动态创建div</button>  <button onclick="appendImage" class="btn">动态创建image到创建的div中</button></div> 已复制/* xxx.css */.container {  flex-direction: column;  align-items: center;  width: 100%;}
+.parent {  flex-direction: column;}
+.btn {  width: 70%;  height: 60px;  margin: 15px;} 已复制// xxx.jslet newDiv = nulllet newImage = null
+export default {  appendDiv() {    let parent = this.$element('parentDiv')    newDiv = dom.createElement('div')    newDiv.setStyle('width', '150px')    newDiv.setStyle('height', '150px')    newDiv.setStyle('backgroundColor', '#AEEEEE')    newDiv.setStyle('marginTop', '15px')    parent.addChild(newDiv)  },  appendImage() {    newImage = dom.createElement('image')    newImage.setAttribute('src', 'common/testImage.jpg')    newImage.setStyle('width', '120px')    newImage.setStyle('height', '120px')    newDiv.addChild(newImage)  }}   上一篇 生命周期定义 下一篇 数据类型说明 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。

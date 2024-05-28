@@ -1,0 +1,4 @@
+您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。概述汇总成员变量OH_NativeXComponent_TouchEvent 更新时间: 2024-02-07 14:08 毫无帮助帮助不大一般很好非常好
+分享
+  概述触摸事件。 起始版本： 8 相关模块： Native XComponent  汇总 成员变量  成员变量名称 描述 id = 0 手指的唯一标识符。  screenX = 0.0 触摸点相对于XComponent所在应用窗口左上角的x坐标。  screenY = 0.0 触摸点相对于XComponent所在应用窗口左上角的y坐标。  x = 0.0 触摸点相对于XComponent组件左边缘的x坐标。  y = 0.0 触摸点相对于XComponent组件上边缘的y坐标。  type = OH_NativeXComponent_TouchEventType::OH_NATIVEXCOMPONENT_UNKNOWN 触摸事件的触摸类型。  size = 0.0 指垫和屏幕之间的接触面积。  force = 0.0 当前触摸事件的压力。  deviceId = 0 产生当前触摸事件的设备的ID。  timeStamp = 0 当前触摸事件的时间戳。  touchPoints [OH_MAX_TOUCH_POINTS_NUMBER] 当前触摸点的数组。  numPoints = 0 当前接触点的数量。      上一篇 OH_NativeXComponent_MouseEvent_Callback 下一篇 OH_NativeXComponent_TouchPoint 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。

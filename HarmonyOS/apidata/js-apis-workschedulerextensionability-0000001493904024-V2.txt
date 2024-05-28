@@ -1,0 +1,7 @@
+您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。导入模块WorkSchedulerExtensionAbility.onWorkStartWorkSchedulerExtensionAbility.onWorkStop@ohos.WorkSchedulerExtensionAbility (延迟任务调度回调) 更新时间: 2024-03-18 17:33 毫无帮助帮助不大一般很好非常好
+分享
+ 本模块提供延迟任务回调能力。 开发者在开发应用时，通过复写该模块的接口，在延迟任务触发的时候，系统会通过接口回调应用，开发者在回调接口里面可以处理自己的任务逻辑。 
+说明
+ 本模块首批接口从API version 9开始支持。后续版本的新增接口，采用上角标单独标记接口的起始版本。本模块接口仅可在Stage模型下使用。 
+ 导入模块已复制import WorkSchedulerExtensionAbility from '@ohos.WorkSchedulerExtensionAbility'  WorkSchedulerExtensionAbility.onWorkStartonWorkStart(work: workScheduler.WorkInfo): void 延迟任务调度开始回调。 系统能力： SystemCapability.ResourceSchedule.WorkScheduler 参数： 参数名 类型 必填 说明   work workScheduler.WorkInfo 是 指示要添加到执行队列的工作。    示例：  已复制  export default class MyWorkSchedulerExtensionAbility extends WorkSchedulerExtensionAbility {      onWorkStart(workInfo) {          console.log('MyWorkSchedulerExtensionAbility onWorkStart' + JSON.stringify(workInfo));      }  }  WorkSchedulerExtensionAbility.onWorkStoponWorkStop(work: workScheduler.WorkInfo): void 延迟任务调度结束回调。 系统能力： SystemCapability.ResourceSchedule.WorkScheduler 参数： 参数名 类型 必填 说明   work workScheduler.WorkInfo 是 指示要添加到执行队列的工作。    示例：  已复制  export default class MyWorkSchedulerExtensionAbility extends WorkSchedulerExtensionAbility {      onWorkStop(workInfo) {          console.log('MyWorkSchedulerExtensionAbility onWorkStop' + JSON.stringify(workInfo));      }  }   上一篇 @ohos.resourceschedule.workScheduler (延迟任务调度) 下一篇 安全 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。

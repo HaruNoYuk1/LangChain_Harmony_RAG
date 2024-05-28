@@ -1,0 +1,16 @@
+您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。导入模块FeatureTypeCardType9+isSupportedhasHceCapability9+isDefaultService9+@ohos.nfc.cardEmulation (标准NFC-cardEmulation) 更新时间: 2024-03-18 17:33 毫无帮助帮助不大一般很好非常好
+分享
+ 本模块主要提供NFC卡模拟业务，包括判断支持哪种卡模拟类型，HCE卡模拟的业务实现等。 
+说明
+ 本模块首批接口从API version 6开始支持。后续版本的新增接口，采用上角标单独标记接口的起始版本。 
+ 导入模块已复制import cardEmulation from '@ohos.nfc.cardEmulation';  FeatureType定义不同的NFC卡模拟类型。 
+说明
+ 从 API version 6 开始支持，从 API version 9 开始废弃，建议使用hasHceCapability替代。 
+ 系统能力： SystemCapability.Communication.NFC.CardEmulation 名称 值 说明   HCE 0 HCE 卡模拟。  UICC 1 SIM 卡模拟。  ESE 2 ESE卡模拟。     CardType9+定义卡模拟应用所使用的业务类型，是支付类型，还是其他类型。 系统能力： SystemCapability.Communication.NFC.CardEmulation 名称 值 说明   PAYMENT "payment" 卡模拟应用所使用的业务是支付类型。  OTHER "other" 卡模拟应用所使用的业务是其他类型。     isSupportedisSupported(feature: number): boolean 是否支持某种类型的卡模拟。 
+说明
+ 从 API version 6 开始支持，从 API version 9 开始废弃，建议使用hasHceCapability替代。 
+ 系统能力： SystemCapability.Communication.NFC.CardEmulation 参数： 参数名 类型 必填 说明   feature number 是 卡模拟类型值，详细请见FeatureType枚举值。    返回值：  类型 说明 boolean true: 支持该类型卡模拟， false: 不支持该类型卡模拟。     hasHceCapability9+hasHceCapability(): boolean 判断是否支持HCE功能。 系统能力： SystemCapability.Communication.NFC.CardEmulation 需要权限： ohos.permission.NFC_CARD_EMULATION 返回值：  类型 说明 boolean true: 支持HCE， false: 不支持HCE。     isDefaultService9+isDefaultService(elementName: ElementName, type: CardType): boolean 判断指定的应用是否为指定业务类型的默认应用。 系统能力： SystemCapability.Communication.NFC.CardEmulation 需要权限： ohos.permission.NFC_CARD_EMULATION 参数： 参数名 类型 必填 说明   elementName ElementName 是 应用的描述，由Bundle名称和组件名称组成。  type CardType 是 卡模拟业务类型。    返回值：  类型 说明 boolean true: 是默认支付应用， false: 不是默认支付应用。    示例： 已复制import cardEmulation from '@ohos.nfc.cardEmulation';
+var isHceSupported = cardEmulation.isSupported(cardEmulation.FeatureType.HCE);if (!isHceSupported) {    console.log('this device is not supported for HCE, ignore it.');    return;}
+var hasHceCap = cardEmulation.hasHceCapability();if (!hasHceCap) {    console.log('this device hasHceCapability false, ignore it.');    return;}
+var elementName = {    "bundleName": "com.test.cardemulation",    "abilityName": "com.test.cardemulation.MainAbility",};var isDefaultService = cardEmulation.isDefaultService(elementName, cardEmulation.CardType.PAYMENT);console.log('is the app is default service for this card type: ' + isDefaultService);   上一篇 @ohos.connectedTag (有源标签) 下一篇 @ohos.nfc.controller (标准NFC) 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。

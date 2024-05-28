@@ -1,0 +1,8 @@
+您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。子组件接口属性事件示例TextPicker 更新时间: 2024-03-18 17:33 毫无帮助帮助不大一般很好非常好
+分享
+ 滑动选择文本内容的组件。 
+说明
+该组件从API Version 8开始支持。后续版本如有新增内容，则采用上角标单独标记该内容的起始版本。 
+ 子组件无  接口TextPicker(options?: {range: string[]|Resource, selected?: number, value?: string}) 根据range指定的选择范围创建文本选择器。 参数： 参数名  参数类型  必填  参数描述    range  string[] | Resource  是  选择器的数据选择列表。   selected  number  否  设置默认选中项在数组中的索引值。 默认值：0   value  string  否  设置默认选中项的值，优先级低于selected。 默认值：第一个元素值      属性除支持通用属性外，还支持以下属性： 名称  参数类型  描述    defaultPickerItemHeight  number | string  设置Picker各选择项的高度。      事件除支持通用事件外，还支持以下事件：  名称  描述  onAccept(callback: (value: string, index: number) => void)  点击弹窗中的“确定”按钮时触发该回调。 - value: 当前选中项的文本。 - index: 当前选中项的索引值。 说明： 该事件仅在文本滑动选择器弹窗中生效。   onCancel(callback: () => void)  点击弹窗中的“取消”按钮时触发该回调。 说明： 该事件仅在文本滑动选择器弹窗中生效。   onChange(callback: (value: string, index: number) => void)  滑动选中TextPicker文本内容后，触发该回调。 - value: 当前选中项的文本。 - index: 当前选中项的索引值。      示例已复制// xxx.ets@Entry@Componentstruct TextPickerExample {  private select: number = 1  private fruits: string[] = ['apple1', 'orange2', 'peach3', 'grape4']
+  build() {    Column() {      TextPicker({ range: this.fruits, selected: this.select })        .onChange((value: string, index: number) => {          console.info('Picker item changed, value: ' + value + ', index: ' + index)        })    }  }}    上一篇 TextInput 下一篇 TextTimer 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。

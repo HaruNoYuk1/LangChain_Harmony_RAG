@@ -1,0 +1,10 @@
+您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。子组件属性BadgeConfig样式事件示例badge 更新时间: 2024-03-18 17:33 毫无帮助帮助不大一般很好非常好
+分享
+ 应用中如果有需用户关注的新事件提醒，可以采用新事件标记来标识。 
+说明
+ 从API Version 8 开始支持。后续版本如有新增内容，则采用上角标单独标记该内容的起始版本。 
+ 子组件仅支持单个子组件。  属性除支持通用属性外，还支持如下属性： 名称 类型 默认值 必填 描述   placement string rightTop 否 事件提醒的数字标记或者圆点标记的位置，可选值为： - right：位于组件右边框。 - rightTop：位于组件边框右上角。 - left：位于组件左边框。   count number 0 否 设置提醒的消息数，默认为0。当设置相应的提醒消息数大于0时，消息提醒会变成数字标记类型，未设置消息数或者消息数不大于0时，消息提醒将采用圆点标记。 说明：当数字设置为大于maxcount时，将使用maxcount显示。count属性最大支持整数值为2147483647。   visible boolean false 否 是否显示消息提醒，当收到新信息提醒时可以设置该属性为true，显示相应的消息提醒，如果需要使用数字标记类型，同时需要设置相应的count属性。  maxcount number 99 否 最大消息数限制，当收到新信息提醒大于该限制时，标识数字会进行省略，仅显示maxcount+。 说明：maxcount属性最大支持整数值为2147483647。   config BadgeConfig - 否 设置新事件标记相关配置属性。  label string - 否 设置新事件提醒的文本值。 说明：使用该属性时，count和maxcount属性不生效。      BadgeConfig 名称 类型 默认值 必填 描述   badgeColor <color> #fa2a2d 否 新事件标记背景色。  textColor <color> #ffffff 否 数字标记的数字文本颜色。  textSize <length> 10px 否 数字标记的数字文本大小。  badgeSize <length> 6px 否 圆点标记的大小。     样式支持通用样式。  事件支持通用事件。  示例已复制 <!-- xxx.hml --> <div class="container">   <badge class="badge" config="{{badgeconfig}}" visible="true" count="100" maxcount="99">     <text class="text1">example</text>   </badge>   <badge class="badge" visible="true" count="1">     <text class="text2">example</text>   </badge> </div> 已复制 /* xxx.css */ .container {   flex-direction: column;   width: 100%;   align-items: center; }
+ .badge {   width: 80px;   height: 60px;   margin-top: 30px; }
+ .text1 {   background-color: #f9a01e;   font-size: 19fp; }
+ .text2 {   background-color: #46b1e3;   font-size: 19fp; } 已复制 {   "data":{     "badgeconfig":{       "badgeColor":"#0a59f7",       "textColor":"#ffffff",       "textSize":"9px",       "badgeSize": "14px"     }   } }    上一篇 容器组件 下一篇 div 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。

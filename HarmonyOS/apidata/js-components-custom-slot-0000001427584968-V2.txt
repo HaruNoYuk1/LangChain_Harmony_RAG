@@ -1,0 +1,9 @@
+您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。默认插槽具名插槽slot插槽 更新时间: 2024-03-18 17:33 毫无帮助帮助不大一般很好非常好
+分享
+说明
+  从API Version 7 开始支持。后续版本如有新增内容，则采用上角标单独标记该内容的起始版本。 
+ 默认插槽自定义组件中通过slot标签来承载父组件中定义的内容，使用slot标签可以更加灵活的控制自定义组件的内容元素，使用方式如下： 已复制<!-- comp.hml --><div class="item">     <text class="text-style">下面使用父组件定义的内容</text>    <slot></slot> </div> 引用该自定义组件方式如下： 已复制<!-- xxx.hml -->  <element name='comp' src='../common/component/comp.hml'></element>   <div class="container">     <comp>     <text class="text-style">父组件中定义的内容</text>    </comp>   </div>  具名插槽当自定义组件中需要使用多个插槽时，可通过对插槽命名的方式进行区分，当填充插槽内容时，通过声明插槽名称，将内容加到对应的插槽中。 已复制<!-- comp.hml --><div class="item">     <text class="text-style">下面使用父组件定义的内容</text>    <slot name="first"></slot>   <slot name="second"></slot> </div> 引用该自定义组件方式如下： 已复制<!-- xxx.hml -->  <element name='comp' src='../common/component/comp.hml'></element>   <div class="container">     <comp>     <text class="text-style" slot="second">插入第二个插槽中</text>      <text class="text-style" slot="first">插入第一个插槽中</text>   </comp>   </div> 
+说明
+  name 和 slot 属性不支持绑定动态数据。 
+   上一篇 继承样式 下一篇 生命周期定义 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。

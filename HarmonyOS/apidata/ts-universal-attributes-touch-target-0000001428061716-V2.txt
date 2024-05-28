@@ -1,0 +1,13 @@
+您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。属性Rectangle对象说明示例触摸热区设置 更新时间: 2024-03-18 17:33 毫无帮助帮助不大一般很好非常好
+分享
+ 适用于支持通用点击事件、通用触摸事件、通用手势处理的组件。 
+说明
+从API Version 8开始支持。后续版本如有新增内容，则采用上角标单独标记该内容的起始版本。 
+ 属性 名称  参数类型  描述    responseRegion  Array<Rectangle> | Rectangle  设置一个或多个触摸热区，包括位置和大小。 默认触摸热区为整个组件，默认值： { x：0, y：0, width：'100%', height：'100%' } 从API version 9开始，该接口支持在ArkTS卡片中使用。      Rectangle对象说明从API version 9开始，该接口支持在ArkTS卡片中使用。 名称  类型  必填  描述    x  Length  否  触摸点相对于组件左上角的x轴坐标。 默认值：0vp   y  Length  否  触摸点相对于组件左上角的y轴坐标。 默认值：0vp   width  Length  否  触摸热区的宽度。 默认值：'100%'   height  Length  否  触摸热区的高度。 默认值：'100%'     
+说明
+x和y可以设置正负值百分比。当x设置为'100%'时表示热区往右偏移组件本身宽度大小，当x设置为'-100%'时表示热区往左偏移组件本身宽度大小。当y设置为'100%'时表示热区往下偏移组件本身高度大小，当y设置为'-100%'时表示热区往上偏移组件本身高度大小。 width和height只能设置正值百分比。width：'100%'表示热区宽度设置为该组件本身的宽度。比如组件本身宽度是100vp，那么'100%'表示热区宽度也为100vp。height：'100%'表示热区高度设置为该组件本身的高度。 百分比相对于组件自身宽高进行计算。 
+  示例已复制// xxx.ets@Entry@Componentstruct TouchTargetExample {  @State text: string = ""
+  build() {    Column({ space: 20 }) {      Text("{x:0,y:0,width:'50%',height:'100%'}")      // 热区宽度为按钮的一半，点击右侧无响应      Button("button1")        .responseRegion({ x: 0, y: 0, width: '50%', height: '100%' })        .onClick(() => {          this.text = 'button1 clicked'        })
+      // 为一个组件添加多个热区      Text("[{x:'100%',y:0,width:'50%',height:'100%'}," +      "\n{ x: 0, y: 0, width: '50%', height: '100%' }]")      Button("button2")        .responseRegion([          { x: '100%', y: 0, width: '50%', height: '100%' }, // 第一个热区宽度为按钮的一半，且右移一个按钮宽度，点击button2右侧左边，点击事件生效          { x: 0, y: 0, width: '50%', height: '100%' } // 第二个热区宽度为按钮的一半，点击button2左半边，点击事件生效        ])        .onClick(() => {          this.text = 'button2 clicked'        })      // 热区大小为整个按钮，且下移一个按钮高度，点击button3下方按钮大小区域，点击事件生效      Text("{x:0,y:'100%',width:'100%',height:'100%'}")      Button("button3")        .responseRegion({ x: 0, y: '100%', width: '100%', height: '100%' })        .onClick(() => {          this.text = 'button3 clicked'        })
+      Text(this.text).margin({ top: 50 })    }.width('100%').margin({ top: 10 })  }}     上一篇 组件标识 下一篇 多态样式 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。

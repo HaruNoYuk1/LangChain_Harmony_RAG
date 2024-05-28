@@ -1,0 +1,523 @@
+您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。使用多线程并发能力进行开发 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    多线程并发概述  TaskPool和Worker的对比  @Concurrent装饰器：校验并发函数  CPU密集型任务开发指导  I/O密集型任务开发指导  同步任务开发指导   上一篇 单次I/O任务开发指导 下一篇 多线程并发概述 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。应用配置文件（Stage模型） 更新时间: 2024-03-18 17:33 毫无帮助帮助不大一般很好非常好
+分享
+    应用配置文件概述（Stage模型）  app.json5配置文件  module.json5配置文件   上一篇 快速修复命令行调试开发指导 下一篇 应用配置文件概述（Stage模型） 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。兼容JS的类Web开发范式 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    概述  框架说明  构建用户界面  常见组件开发指导  动效开发指导  自定义组件   上一篇 性能提升的推荐方法 下一篇 概述 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。数据管理 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    数据管理概述  应用数据持久化  数据可靠性与安全性   上一篇 获取当前蜂窝网络信号信息 下一篇 数据管理概述 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。文件管理 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    文件管理概述  应用文件  用户文件  分布式文件系统   上一篇 基于设备分类和数据分级的访问控制 下一篇 文件管理概述 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。设备管理 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    USB服务  位置服务  传感器  振动  多模输入  设备状态   上一篇 代理提醒 下一篇 USB服务 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。DFX 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    应用事件打点开发指导  性能打点跟踪开发指导  分布式跟踪开发指导  错误管理   上一篇 Stationary开发指导 下一篇 应用事件打点开发指导 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。国际化 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    国际化开发概述  Intl开发指导  I18n开发指导   上一篇 应用恢复开发指导 下一篇 国际化开发概述 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。应用测试 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    自动化测试框架使用指南   上一篇 I18n开发指导 下一篇 自动化测试框架使用指南 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。应用模型 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    应用模型概述  Stage模型开发指导  FA模型开发指导   下一篇 应用模型概述 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。开发基础知识 更新时间: 2024-03-18 17:33 毫无帮助帮助不大一般很好非常好
+分享
+    应用程序包基础知识  应用配置文件（Stage模型）  应用配置文件（FA模型）   上一篇 构建第一个JS应用（FA模型） 下一篇 应用程序包基础知识 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。快速入门 更新时间: 2024-03-18 17:33 毫无帮助帮助不大一般很好非常好
+分享
+    开发准备  构建第一个ArkTS应用（Stage模型）  构建第一个ArkTS应用（FA模型）  构建第一个JS应用（FA模型）   下一篇 开发准备 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。Native API相关指导 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    Native API在应用工程中的使用指导  Drawing开发指导  Rawfile开发指导  NativeWindow 开发指导  使用MindSpore Lite引擎进行模型推理  Neural Network Runtime对接AI推理框架开发指导   上一篇 自动化测试框架使用指南 下一篇 Native API在应用工程中的使用指导 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。UI开发 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    方舟开发框架（ArkUI）概述  基于ArkTS的声明式开发范式  兼容JS的类Web开发范式   上一篇 线程间通信 下一篇 方舟开发框架（ArkUI）概述 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。ArkTS语言基础类库 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    ArkTS语言基础类库概述  并发  容器类库  XML生成、解析与转换   上一篇 使用Devtools工具调试前端页面 下一篇 ArkTS语言基础类库概述 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。通知 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    通知概述  发布通知   上一篇 XML转换 下一篇 通知概述 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。窗口管理 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    窗口开发概述  管理应用窗口（Stage模型）  管理应用窗口（FA模型）   上一篇 为通知添加行为意图 下一篇 窗口开发概述 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。WebGL 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    概述  WebGL开发指导   上一篇 管理应用窗口（FA模型） 下一篇 概述 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。媒体 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    媒体应用开发概述  音视频  图片   上一篇 WebGL开发指导 下一篇 媒体应用开发概述 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。安全 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    访问控制  用户认证  密钥管理  加解密算法库框架  证书   上一篇 图片工具 下一篇 访问控制 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。网络与连接 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    网络管理  IPC与RPC通信   上一篇 证书开发指导 下一篇 网络管理 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。电话服务 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    电话服务开发概述  跳转拨号界面  获取当前蜂窝网络信号信息   上一篇 远端状态订阅开发实例 下一篇 电话服务开发概述 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。USB服务 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    USB服务开发概述  USB服务开发指导   上一篇 设备管理 下一篇 USB服务开发概述 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。应用模型概述 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    应用模型的构成要素  应用模型解读   上一篇 应用模型 下一篇 应用模型的构成要素 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。网络管理 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    网络管理开发概述  HTTP数据请求  WebSocket连接  Socket连接   上一篇 网络与连接 下一篇 网络管理开发概述 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。访问控制 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    访问控制（权限）开发概述  访问控制授权申请  访问控制权限校验指导  应用权限列表   上一篇 安全 下一篇 访问控制（权限）开发概述 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。IPC与RPC通信 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    IPC与RPC通信概述  IPC与RPC通信开发指导  远端状态订阅开发实例   上一篇 Socket连接 下一篇 IPC与RPC通信概述 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。Stage模型开发指导 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    Stage模型开发概述  Stage模型应用组件  进程模型  线程模型   上一篇 应用模型解读 下一篇 Stage模型开发概述 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。位置服务 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    位置服务开发指南   上一篇 USB服务开发指导 下一篇 位置服务开发指南 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。并发 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    并发概述  使用异步并发能力进行开发  使用多线程并发能力进行开发   上一篇 ArkTS语言基础类库概述 下一篇 并发概述 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。用户认证 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    用户认证开发概述  用户认证开发指导   上一篇 应用权限列表 下一篇 用户认证开发概述 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。FA模型开发指导 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    FA模型开发概述  FA模型应用组件  进程模型  线程模型   上一篇 使用Worker进行线程间通信 下一篇 FA模型开发概述 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。传感器 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    传感器开发概述  传感器开发指导   上一篇 位置服务开发指南 下一篇 传感器开发概述 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。容器类库 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    容器类库概述  线性容器  非线性容器   上一篇 同步任务开发指导 下一篇 容器类库概述 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。密钥管理 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    通用密钥库开发概述  通用密钥库开发指导  通用密钥库密码算法规格   上一篇 用户认证开发指导 下一篇 通用密钥库开发概述 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。XML生成、解析与转换 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    XML概述  XML生成  XML解析  XML转换   上一篇 非线性容器 下一篇 XML概述 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。发布通知 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    发布基础类型通知  发布进度条类型通知  为通知添加行为意图   上一篇 通知概述 下一篇 发布基础类型通知 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。振动 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    Vibrator开发概述  Vibrator开发指导   上一篇 传感器开发指导 下一篇 Vibrator开发概述 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。错误管理 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    错误管理开发指导  应用恢复开发指导   上一篇 分布式跟踪开发指导 下一篇 错误管理开发指导 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。多模输入 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    输入设备开发指导  鼠标光标开发指导   上一篇 Vibrator开发指导 下一篇 输入设备开发指导 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。证书 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    证书概述  证书开发指导   上一篇 加解密算法库框架开发指导 下一篇 证书概述 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。设备状态 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    Stationary开发指导   上一篇 鼠标光标开发指导 下一篇 Stationary开发指导 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。FA模型应用组件 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    应用/组件级配置  PageAbility组件开发指导  ServiceAbility组件开发指导  DataAbility组件开发指导  服务卡片开发指导（FA模型）  FA模型的Context  信息传递载体Want   上一篇 FA模型开发概述 下一篇 应用/组件级配置 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。Stage模型应用组件 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    应用/组件级配置  UIAbility组件  ExtensionAbility组件  服务卡片开发指导（Stage模型）  AbilityStage组件容器  应用上下文Context  信息传递载体Want   上一篇 Stage模型开发概述 下一篇 应用/组件级配置 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。应用程序包结构 更新时间: 2024-03-18 17:33 毫无帮助帮助不大一般很好非常好
+分享
+    Stage模型应用程序包结构  FA模型应用程序包结构   上一篇 应用程序包概述 下一篇 Stage模型应用程序包结构 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。框架说明 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    文件组织  js标签配置  app.js  语法  生命周期  资源限定与访问  多语言支持   上一篇 概述 下一篇 文件组织 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。构建用户界面 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    组件介绍  构建布局  添加交互  使用动画  手势事件  页面路由   上一篇 多语言支持 下一篇 组件介绍 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。进程模型 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    进程模型概述  公共事件   上一篇 应用间使用Want分享数据 下一篇 进程模型概述 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。进程模型 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    进程模型概述  公共事件   上一篇 信息传递载体Want 下一篇 进程模型概述 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。线程模型 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    线程模型概述  使用Emitter进行线程间通信  使用Worker进行线程间通信   上一篇 公共事件发布 下一篇 线程模型概述 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。线程模型 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    线程模型概述  线程间通信   上一篇 公共事件 下一篇 线程模型概述 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。动效开发指导 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    CSS动画  JS动画   上一篇 绘制文本 下一篇 CSS动画 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。共享包 更新时间: 2024-03-18 17:33 毫无帮助帮助不大一般很好非常好
+分享
+    共享包概述  HAR  HSP   上一篇 应用程序包更新流程 下一篇 共享包概述 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。CSS动画 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    属性样式动画  transform样式动画  background-position样式动画  svg动画   上一篇 动效开发指导 下一篇 属性样式动画 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。容器组件 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    list开发指导  dialog开发指导  form开发指导  stepper开发指导  tabs开发指导  swiper开发指导   上一篇 常见组件开发指导 下一篇 list开发指导 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。JS动画 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    组件动画  插值器动画   上一篇 svg动画 下一篇 组件动画 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。PageAbility组件开发指导 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    PageAbility组件概述  PageAbility组件配置  PageAbility的生命周期  PageAbility的启动模式  创建PageAbility  启动本地PageAbility  停止PageAbility  启动指定页面  窗口属性  申请授权  跳转规则   上一篇 应用/组件级配置 下一篇 PageAbility组件概述 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。UIAbility组件 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    UIAbility组件概述  UIAbility组件生命周期  UIAbility组件启动模式  UIAbility组件基本用法  UIAbility组件与UI的数据同步  UIAbility组件间交互（设备内）   上一篇 应用/组件级配置 下一篇 UIAbility组件概述 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。公共事件 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    公共事件简介  公共事件订阅  公共事件发布   上一篇 进程模型概述 下一篇 公共事件简介 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。基础组件 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    text开发指导  input开发指导  button开发指导  picker开发指导  image开发指导  image-animator开发指导  rating开发指导  slider开发指导  chart开发指导  switch开发指导  toolbar开发指导  menu开发指导  marquee开发指导  qrcode开发指导  search   上一篇 swiper开发指导 下一篇 text开发指导 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。构建布局 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    布局说明  添加标题行和文本区域  添加图片区域  添加留言区域  添加容器   上一篇 组件介绍 下一篇 布局说明 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。Canvas开发指导 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    Canvas对象  CanvasRenderingContext2D对象  Path2D对象  OffscreenCanvasRenderingContext2D对象   上一篇 search 下一篇 Canvas对象 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。ExtensionAbility组件 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+  ExtensionAbility组件是基于特定场景提供的应用组件，以便满足更多的使用场景。 每一个具体场景对应一个ExtensionAbilityType，各类型的ExtensionAbility组件均由相应的系统服务统一管理，例如InputMethodExtensionAbility组件由输入法管理服务统一管理。当前支持的ExtensionAbility类型有：  FormExtensionAbility：FORM类型的ExtensionAbility组件，用于提供服务卡片场景相关能力。 WorkSchedulerExtensionAbility：WORK_SCHEDULER类型的ExtensionAbility组件，用于提供延迟任务注册、取消、查询的能力。   上一篇 UIAbility组件间交互（设备内） 下一篇 服务卡片开发指导（Stage模型） 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。HSP 更新时间: 2024-03-18 17:33 毫无帮助帮助不大一般很好非常好
+分享
+    应用内HSP开发指导   上一篇 HAR 下一篇 应用内HSP开发指导 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。DataAbility组件开发指导 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    DataAbility组件概述  DataAbility组件配置  DataAbility的生命周期  创建DataAbility  启动DataAbility  访问DataAbility  DataAbility权限控制   上一篇 连接ServiceAbility 下一篇 DataAbility组件概述 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。语法 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    HML语法参考  CSS语法参考  JS语法参考   上一篇 app.js 下一篇 HML语法参考 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。Svg开发指导 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    基础知识  绘制图形  绘制路径  绘制文本   上一篇 栅格布局 下一篇 基础知识 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。信息传递载体Want 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    Want概述  显式Want与隐式Want匹配规则  常见action与entities  使用显式Want启动Ability  使用隐式Want打开网址  应用间使用Want分享数据   上一篇 应用上下文Context 下一篇 Want概述 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。公共事件订阅 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    动态订阅公共事件  取消动态订阅公共事件   上一篇 公共事件简介 下一篇 动态订阅公共事件 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。插值器动画 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    动画动效  动画帧   上一篇 组件动画 下一篇 动画动效 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。使用异步并发能力进行开发 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+    异步并发概述  单次I/O任务开发指导   上一篇 并发概述 下一篇 异步并发概述 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。应用程序包基础知识 更新时间: 2024-03-18 17:33 毫无帮助帮助不大一般很好非常好
+分享
+    应用程序包概述  应用程序包结构  应用程序包多HAP机制  应用程序包安装和卸载流程  应用程序包更新流程  共享包  应用程序包快速修复   上一篇 开发基础知识 下一篇 应用程序包概述 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。应用程序包快速修复 更新时间: 2024-03-18 17:33 毫无帮助帮助不大一般很好非常好
+分享
+    快速修复概述  快速修复命令行调试开发指导   上一篇 应用内HSP开发指导 下一篇 快速修复概述 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。开发步骤使用显式Want启动Ability 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+ 在应用使用场景中，当用户点击某个按钮时，应用经常需要拉起指定UIAbility组件来完成某些特定任务。下面介绍如何通过显式Want拉起应用内一个指定UIAbility组件。 开发步骤Stage模型工程内，创建一个Ability（此示例内命名为callerAbility）与相应Page（此示例中名为Index.ets），并在callerAbility.ts文件内的onWindowStageCreate函数内通过windowStage.loadContent()方法将两者绑定。 已复制// ...    // callerAbility.ts    onWindowStageCreate(windowStage) {        // Main window is created, set main page for this ability        console.info('[Demo] EntryAbility onWindowStageCreate')        // Bind callerAbility with a paged named Index        windowStage.loadContent('pages/Index')    }// ... 同上方法再创建一个Ability，此示例内命名为“calleeAbility”。 在callerAbility的“Index.ets”页面内新增一个按钮。 已复制// ...  build() {    Row() {      Column() {        Text('hello')        .fontSize(50)        .fontWeight(FontWeight.Bold)        // A new button with will call explicitStartAbility() when clicked.        Button("CLICKME")        .onClick(this.explicitStartAbility) // explicitStartAbility见下面示例代码        // ...      }      .width('100%')    }    .height('100%')  }// ... 补充相对应的onClick方法，并使用显式Want在方法内启动calleeAbility。bundleName字段可在工程AppScope>app.json5文件内获取；abilityName可在对应模块内的“yourModuleName > src > main > module.json5”文件查看。 已复制import common from '@ohos.app.ability.common';
+// ...  async explicitStartAbility() {    try {      // Explicit want with abilityName specified.      let want = {        deviceId: "",        bundleName: "com.example.myapplication",        abilityName: "calleeAbility"      };      let context = getContext(this) as common.UIAbilityContext;      await context.startAbility(want);      console.info(`explicit start ability succeed`);    } catch (error) {      console.info(`explicit start ability failed with ${error.code}`);    }  }// ... 至此，当您点击CLICKME按钮时，应看到页面的跳转。    上一篇 常见action与entities 下一篇 使用隐式Want打开网址 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。前提条件开发步骤使用隐式Want打开网址 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+  前提条件设备上安装了一个或多个浏览器。 浏览器应用中通过module.json5配置如下： 已复制"skills": [  {    "entities": [      "entity.system.browsable"      // ...    ],    "actions": [        "ohos.want.action.viewData"        // ...    ],    "uris": [      {        "scheme": "https",        "host": "www.test.com",        "port": "8080",        // prefix matching        "pathStartWith": "query",        "type": "text/*"      },      {        "scheme": "http",        // ...      }      // ...    ]  },]  开发步骤在自定义函数implicitStartAbility内使用隐式Want启动Ability。 已复制    async implicitStartAbility() {        try {            let want = {                // uncomment line below if wish to implicitly query only in the specific bundle.                // bundleName: "com.example.myapplication",                "action": "ohos.want.action.viewData",                // entities can be omitted.                "entities": [ "entity.system.browsable" ],                "uri": "https://www.test.com:8080/query/student",                "type": "text/plain"            }            let context = getContext(this) as common.UIAbilityContext;            await context.startAbility(want)            console.info(`explicit start ability succeed`)        } catch (error) {            console.info(`explicit start ability failed with ${error.code}`)        }     }   匹配过程如下： want内action不为空，且被skills内action包括，匹配成功。 want内entities不为空，且被skills内entities包括，匹配成功。 skills内uris拼接为https://www.test.com:8080/query\* (*为通配符)包含want内uri，匹配成功。 want内type不为空，且被skills内type包含，匹配成功。  当有多个匹配应用时，会被应用选择器展示给用户进行选择。     上一篇 使用显式Want启动Ability 下一篇 应用间使用Want分享数据 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。AbilityStage组件容器 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+  AbilityStage是一个Module级别的组件容器，应用的HAP在首次加载时会创建一个AbilityStage实例，可以对该Module进行初始化等操作。 AbilityStage与Module一一对应，即一个Module拥有一个AbilityStage。 DevEco Studio默认工程中未自动生成AbilityStage，如需要使用AbilityStage的能力，可以手动新建一个AbilityStage文件，具体步骤如下。  在工程Module对应的ets目录下，右键选择“New > Directory”，新建一个目录并命名为myabilitystage。 在myabilitystage目录，右键选择“New > TypeScript File”，新建一个TypeScript文件并命名为MyAbilityStage.ts。 打开MyAbilityStage.ts文件，导入AbilityStage的依赖包，自定义类继承AbilityStage并加上需要的生命周期回调，示例中增加了一个onCreate()生命周期回调。 已复制import AbilityStage from '@ohos.app.ability.AbilityStage';
+export default class MyAbilityStage extends AbilityStage {  onCreate() {    // 应用的HAP在首次加载的时，为该Module初始化操作  }  onAcceptWant(want) {    // 仅specified模式下触发    return "MyAbilityStage";  }} 在module.json5配置文件中，通过配置srcEntry参数来指定模块对应的代码路径，以作为HAP加载的入口。 已复制{  "module": {    "name": "entry",    "type": "entry",    "srcEntry": "./ets/myabilitystage/MyAbilityStage.ts",    ...  }}  AbilityStage拥有onCreate()生命周期回调和onAcceptWant()、onConfigurationUpdated()、onMemoryLevel()事件回调。  onCreate()生命周期回调：在开始加载对应Module的第一个UIAbility实例之前会先创建AbilityStage，并在AbilityStage创建完成之后执行其onCreate()生命周期回调。AbilityStage模块提供在Module加载的时候，通知开发者，可以在此进行该Module的初始化（如资源预加载，线程创建等）能力。 onAcceptWant()事件回调：UIAbility指定实例模式（specified）启动时候触发的事件回调，具体使用请参见UIAbility启动模式综述。 onConfigurationUpdated()事件回调：当系统全局配置发生变更时触发的事件，系统语言、深浅色等，配置项目前均定义在Configuration类中。 onMemoryLevel()事件回调：当系统调整内存时触发的事件。  应用被切换到后台时，系统会将在后台的应用保留在缓存中。即使应用处于缓存中，也会影响系统整体性能。当系统资源不足时，系统会通过多种方式从应用中回收内存，必要时会完全停止应用，从而释放内存用于执行关键任务。为了进一步保持系统内存的平衡，避免系统停止用户的应用进程，可以在AbilityStage中的onMemoryLevel()生命周期回调中订阅系统内存的变化情况，释放不必要的资源。 已复制import AbilityStage from '@ohos.app.ability.AbilityStage';
+export default class MyAbilityStage extends AbilityStage {    onMemoryLevel(level) {        // 根据系统可用内存的变化情况，释放不必要的内存    }}  上一篇 开发基于JS UI的卡片 下一篇 应用上下文Context 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。基本概念数据安全标签设备安全等级跨设备同步访问控制机制场景介绍使用键值型数据库实现数据分级使用关系型数据库实现数据分级基于设备分类和数据分级的访问控制 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+   基本概念 分布式数据管理对数据实施分类分级保护，提供基于数据安全标签以及设备安全等级的访问控制机制。 数据安全标签和设备安全等级越高，加密措施和访问控制措施越严格，数据安全性越高。   数据安全标签 按照数据分类分级规范要求，可将数据分为S1、S2、S3、S4四个安全等级。     风险等级 风险标准 定义 样例    严重 S4 业界法律法规定义的特殊数据类型，涉及个人的最私密领域的信息或一旦泄露、篡改、破坏、销毁可能会给个人或组织造成重大的不利影响的数据。 政治观点、宗教和哲学信仰、工会成员资格、基因数据、生物信息、健康和性生活状况，性取向等或设备认证鉴权、个人信用卡等财物信息等。   高 S3 数据的泄露、篡改、破坏、销毁可能会给个人或组织导致严峻的不利影响 个人实时精确定位信息、运动轨迹等。   中 S2 数据的泄露、篡改、破坏、销毁可能会给个人或组织导致严重的不利影响 个人的详细通信地址、姓名昵称等。   低 S1 数据的泄露、篡改、破坏、销毁可能会给个人或组织导致有限的不利影响 性别、国籍、用户申请记录等。      设备安全等级 根据设备安全能力，比如是否有TEE、是否有安全存储芯片等，将设备安全等级分为SL1、SL2、SL3、SL4、SL5五个等级。例如，手表通常为低安全的SL1设备，手机、平板通常为高安全的SL4设备。 在设备组网时可以通过"hidumper -s 3511"查看设备安全等级。   跨设备同步访问控制机制 数据跨设备同步时，数据管理基于数据安全标签和设备安全等级进行访问控制。规则为，在本设备的数据安全标签不高于对端设备的设备安全等级时，数据才能从本设备同步到对端设备，否则不能同步。具体访问控制矩阵如下：   设备安全级别 SL1 SL2 SL3 SL4 SL5   可同步的数据安全标签 S1 S1~S2 S1~S3 S1~S4 S1~S4   例如，手表通常为低安全的SL1设备。若创建数据安全标签为S1的数据库，则此数据库数据可以在这些设备间同步；若创建的数据库标签为S2-S4，则不能在这些设备间同步。   场景介绍 基于设备分类和数据分级的访问控制机制确保了数据存储和同步时的安全能力。在创建数据库时，应当基于数据分类分级规范合理地设置数据库的安全标签，确保数据库内容和数据标签的一致性。   使用键值型数据库实现数据分级 键值型数据库，通过securityLevel参数设置数据库的安全等级。此处以创建安全等级为S1的数据库为例。 具体接口及功能，可见分布式键值数据库。 已复制import distributedKVStore from '@ohos.data.distributedKVStore';
+let kvManager;let context = this.context;const kvManagerConfig = {  context: context,  bundleName: 'com.example.datamanagertest'}try {  kvManager = distributedKVStore.createKVManager(kvManagerConfig);  console.info('Succeeded in creating KVManager.');} catch (e) {  console.error(`Failed to create KVManager. Code:${e.code},message:${e.message}`);}let kvStore;try {  const options = {    createIfMissing: true,    encrypt: true,    backup: false,    kvStoreType: distributedKVStore.KVStoreType.SINGLE_VERSION,    securityLevel: distributedKVStore.SecurityLevel.S1  };  kvManager.getKVStore('storeId', options, (err, store) => {    if (err) {      console.error(`Failed to get KVStore. Code:${err.code},message:${err.message}`);      return;    }    console.info('Succeeded in getting KVStore.');    kvStore = store;  });} catch (e) {  console.error(`An unexpected error occurred. Code:${e.code},message:${e.message}`);}   使用关系型数据库实现数据分级 关系型数据库，通过securityLevel参数设置数据库的安全等级。此处以创建安全等级为S1的数据库为例。 具体接口及功能，可见关系型数据库。 已复制import relationalStore from '@ohos.data.relationalStore';
+let store;const STORE_CONFIG = {  name: 'RdbTest.db',  securityLevel: relationalStore.SecurityLevel.S1};let promise = relationalStore.getRdbStore(this.context, STORE_CONFIG);promise.then(async (rdbStore) => {  store = rdbStore;  console.info('Succeeded in getting RdbStore.')}).catch((err) => {  console.error(`Failed to get RdbStore. Code:${err.code},message:${err.message}`);})   上一篇 数据库加密 下一篇 文件管理 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。访问DataAbility 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+  访问DataAbility需导入基础依赖包，以及获取与DataAbility子模块通信的URI字符串。 其中，基础依赖包包括：  @ohos.ability.featureAbility @ohos.data.dataAbility @ohos.data.rdb  访问DataAbility的示例代码如下：  创建工具接口类对象。 已复制// 作为参数传递的URI,与config中定义的URI的区别是多了一个"/",有三个"/"import featureAbility from '@ohos.ability.featureAbility'import ohos_data_ability from '@ohos.data.dataAbility'import ohos_data_rdb from '@ohos.data.rdb'
+let urivar = "dataability:///com.ix.DataAbility"let DAHelper = featureAbility.acquireDataAbilityHelper(urivar); 构建数据库相关的RDB数据。 已复制let valuesBucket = {"name": "gaolu"}let da = new ohos_data_ability.DataAbilityPredicates()let valArray =new Array("value1");let cars = new Array({"batchInsert1" : "value1",}); 注：关于DataAbilityPredicates的详细内容，请参考DataAbility谓词。 调用insert方法向指定的DataAbility子模块插入数据。 已复制// callback方式调用:DAHelper.insert(  urivar,  valuesBucket,  (error, data) => {    console.info("DAHelper insert result: " + data)  }); 已复制// promise方式调用(await需要在async方法中使用):let datainsert = await DAHelper.insert(urivar, valuesBucket).then((data) => {  console.info("insert success.");}).catch((error) => {  console.error("insert failed.");}); 调用delete方法删除DataAbility子模块中指定的数据。 已复制// callback方式调用:DAHelper.delete(  urivar,  da,  (error, data) => {    console.info("DAHelper delete result: " + data)  }); 已复制// promise方式调用(await需要在async方法中使用):let datadelete = await DAHelper.delete(  urivar,  da,); 调用update方法更新指定DataAbility子模块中的数据。 已复制// callback方式调用:DAHelper.update(  urivar,  valuesBucket,  da,  (error, data) => {    console.info("DAHelper update result: " + data)  }); 已复制// promise方式调用(await需要在async方法中使用):let dataupdate = await DAHelper.update(  urivar,  valuesBucket,  da,); 调用query方法在指定的DataAbility子模块中查找数据。 已复制// callback方式调用:DAHelper.query(  urivar,  valArray,  da,  (error, data) => {    console.info("DAHelper query result: " + data)  }); 已复制// promise方式调用(await需要在async方法中使用):let dataquery = await DAHelper.query(  urivar,  valArray,  da); 调用batchInsert方法向指定的DataAbility子模块批量插入数据。 已复制// callback方式调用:DAHelper.batchInsert(  urivar,  cars,  (error, data) => {    console.info("DAHelper batchInsert result: " + data)  }); 已复制// promise方式调用(await需要在async方法中使用):let databatchInsert = await DAHelper.batchInsert(  urivar,  cars); 调用executeBatch方法向指定的DataAbility子模块进行数据的批量处理。 已复制// callback方式调用:DAHelper.executeBatch(  urivar,  [    {      uri: urivar,      type: featureAbility.DataAbilityOperationType.TYPE_INSERT,      valuesBucket: {"executeBatch" : "value1",},      predicates: da,      expectedCount:0,      predicatesBackReferences: null,      interrupted:true,    }  ],  (error, data) => {    console.info("DAHelper executeBatch result: " + data)  }); 已复制// promise方式调用(await需要在async方法中使用):let dataexecuteBatch = await DAHelper.executeBatch(  urivar,  [    {      uri: urivar,      type: featureAbility.DataAbilityOperationType.TYPE_INSERT,      valuesBucket:      {        "executeBatch" : "value1",      },      predicates: da,      expectedCount:0,      predicatesBackReferences: null,      interrupted:true,    }  ]);  DataAbility的客户端的接口是由工具接口类对象DataAbilityHelper向外提供，相关接口可参考DataAbilityHelper模块。  上一篇 启动DataAbility 下一篇 DataAbility权限控制 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。场景介绍配置文件权限声明Stage模型FA模型向用户申请授权Stage模型FA模型访问控制授权申请 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+   场景介绍 应用的APL（Ability Privilege Level）等级分为normal、system_basic和system_core三个等级，默认情况下，应用的APL等级都为normal等级。权限类型分为system_grant和user_grant两种类型。应用可申请的权限项参见应用权限列表。   配置文件权限声明 应用需要在工程配置文件中，对需要的权限逐个声明，未在配置文件中声明的权限，应用将无法获得授权。HarmonyOS提供了两种应用模型，分别为FA模型和Stage模型，更多信息可以参考应用模型解读。不同的应用模型的应用包结构不同，所使用的配置文件不同。 配置文件标签说明如下表所示。     标签 是否必填 说明    name 是 权限名称。   reason 否 描述申请权限的原因。 说明：当申请的权限为user_grant权限时，此字段必填。   usedScene 否 描述权限使用的场景和时机。 说明：当申请的权限为user_grant权限时，此字段必填。   abilities 否 标识需要使用到该权限的Ability，标签为数组形式。 适用模型：Stage模型   ability 否 标识需要使用到该权限的Ability，标签为数组形式。 适用模型：FA模型   when 否 标识权限使用的时机，值为inuse/always。 - inuse：表示为仅允许前台使用。 - always：表示前后台都可使用。      Stage模型 使用Stage模型的应用，需要在module.json5配置文件中声明权限。 已复制{  "module" : {    // ...    "requestPermissions":[      {        "name" : "ohos.permission.PERMISSION1",        "reason": "$string:reason",        "usedScene": {          "abilities": [            "FormAbility"          ],          "when":"inuse"        }      },      {        "name" : "ohos.permission.PERMISSION2",        "reason": "$string:reason",        "usedScene": {          "abilities": [            "FormAbility"          ],          "when":"always"        }      }    ]  }}   FA模型 使用FA模型的应用，需要在config.json配置文件中声明权限。 已复制{  "module" : {    // ...    "reqPermissions":[      {        "name" : "ohos.permission.PERMISSION1",        "reason": "$string:reason",        "usedScene": {          "ability": [            "FormAbility"          ],          "when":"inuse"        }      },      {        "name" : "ohos.permission.PERMISSION2",        "reason": "$string:reason",        "usedScene": {          "ability": [            "FormAbility"          ],          "when":"always"        }      }    ]  }}   向用户申请授权 当应用需要访问用户的隐私信息或使用系统能力时，例如获取位置信息、访问日历、使用相机拍摄照片或录制视频等，应该向用户请求授权。这需要使用 user_grant 类型权限。在此之前，应用需要进行权限校验，以判断当前调用者是否具备所需的权限。如果权限校验结果表明当前应用尚未被授权该权限，则应使用动态弹框授权方式，为用户提供手动授权的入口。示意效果如下图所示。 图1 向用户申请授权  
+说明
+ 每次访问受目标权限保护的接口之前，都需要使用 requestPermissionsFromUser() 接口请求相应的权限。用户可能在动态授予权限后通过系统设置来取消应用的权限，因此不能将之前授予的授权状态持久化。 
+   Stage模型 以允许应用读取日历信息为例进行说明。  申请ohos.permission.READ_CALENDAR权限，配置方式请参见访问控制授权申请。 校验当前是否已经授权。 在进行权限申请之前，需要先检查当前应用程序是否已经被授予了权限。可以通过调用checkAccessToken()方法来校验当前是否已经授权。如果已经授权，则可以直接访问目标操作，否则需要进行下一步操作，即向用户申请授权。 已复制import bundleManager from '@ohos.bundle.bundleManager';import abilityAccessCtrl, { Permissions } from '@ohos.abilityAccessCtrl';
+async function checkAccessToken(permission: Permissions): Promise<abilityAccessCtrl.GrantStatus> {  let atManager = abilityAccessCtrl.createAtManager();  let grantStatus: abilityAccessCtrl.GrantStatus;
+  // 获取应用程序的accessTokenID  let tokenId: number;  try {    let bundleInfo: bundleManager.BundleInfo = await bundleManager.getBundleInfoForSelf(bundleManager.BundleFlag.GET_BUNDLE_INFO_WITH_APPLICATION);    let appInfo: bundleManager.ApplicationInfo = bundleInfo.appInfo;    tokenId = appInfo.accessTokenId;  } catch (err) {    console.error(`getBundleInfoForSelf failed, code is ${err.code}, message is ${err.message}`);  }
+  // 校验应用是否被授予权限  try {    grantStatus = await atManager.checkAccessToken(tokenId, permission);  } catch (err) {    console.error(`checkAccessToken failed, code is ${err.code}, message is ${err.message}`);  }
+  return grantStatus;}
+async function checkPermissions(): Promise<void> {  const permissions: Array<Permissions> = ['ohos.permission.READ_CALENDAR'];  let grantStatus: abilityAccessCtrl.GrantStatus = await checkAccessToken(permissions[0]);
+  if (grantStatus === abilityAccessCtrl.GrantStatus.PERMISSION_GRANTED) {    // 已经授权，可以继续访问目标操作  } else {    // 申请日历权限  }} 动态向用户申请授权。 动态向用户申请权限是指在应用程序运行时向用户请求授权的过程。可以通过调用requestPermissionsFromUser()方法来实现。该方法接收一个权限列表参数，例如位置、日历、相机、麦克风等。用户可以选择授予权限或者拒绝授权。 
+说明
+ 系统不鼓励频繁弹窗打扰用户，如果用户拒绝授权，将无法再次拉起弹窗。需要应用引导用户在系统应用“设置”的界面中手动授予权限。 
+ 可以在UIAbility的onWindowStageCreate()回调中调用requestPermissionsFromUser()方法来动态申请权限，也可以根据业务需要在UI中向用户申请授权。 在UIAbility中向用户申请授权。 已复制import UIAbility from '@ohos.app.ability.UIAbility';import window from '@ohos.window';import abilityAccessCtrl, { Permissions } from '@ohos.abilityAccessCtrl';
+const permissions: Array<Permissions> = ['ohos.permission.READ_CALENDAR'];
+export default class EntryAbility extends UIAbility {  // ...
+  onWindowStageCreate(windowStage: window.WindowStage) {    // Main window is created, set main page for this ability    let context = this.context;    let atManager = abilityAccessCtrl.createAtManager();    // requestPermissionsFromUser会判断权限的授权状态来决定是否唤起弹窗
+    atManager.requestPermissionsFromUser(context, permissions).then((data) => {      let grantStatus: Array<number> = data.authResults;      let length: number = grantStatus.length;      for (let i = 0; i < length; i++) {        if (grantStatus[i] === 0) {          // 用户授权，可以继续访问目标操作        } else {          // 用户拒绝授权，提示用户必须授权才能访问当前页面的功能，并引导用户到系统设置中打开相应的权限          return;        }      }      // 授权成功    }).catch((err) => {      console.error(`requestPermissionsFromUser failed, code is ${err.code}, message is ${err.message}`);    })
+    // ...  }} 在UI中向用户申请授权。 已复制import abilityAccessCtrl, { Permissions } from '@ohos.abilityAccessCtrl';import common from '@ohos.app.ability.common';
+const permissions: Array<Permissions> = ['ohos.permission.READ_CALENDAR'];
+@Entry@Componentstruct Index {  reqPermissionsFromUser(permissions: Array<Permissions>): void {    let context = getContext(this) as common.UIAbilityContext;    let atManager = abilityAccessCtrl.createAtManager();    // requestPermissionsFromUser会判断权限的授权状态来决定是否唤起弹窗    atManager.requestPermissionsFromUser(context, permissions).then((data) => {      let grantStatus: Array<number> = data.authResults;      let length: number = grantStatus.length;      for (let i = 0; i < length; i++) {        if (grantStatus[i] === 0) {          // 用户授权，可以继续访问目标操作        } else {          // 用户拒绝授权，提示用户必须授权才能访问当前页面的功能，并引导用户到系统设置中打开相应的权限          return;        }      }      // 授权成功    }).catch((err) => {      console.error(`requestPermissionsFromUser failed, code is ${err.code}, message is ${err.message}`);    })  }
+  // 页面展示  build() {    // ...  }} 处理授权结果。 调用requestPermissionsFromUser()方法后，应用程序将等待用户授权的结果。如果用户授权，则可以继续访问目标操作。如果用户拒绝授权，则需要提示用户必须授权才能访问当前页面的功能，并引导用户到系统设置中打开相应的权限。 已复制function openPermissionsInSystemSettings(): void {  let context = getContext(this) as common.UIAbilityContext;  let wantInfo = {    action: 'action.settings.app.info',    parameters: {      settingsParamBundleName: 'com.example.myapplication' // 打开指定应用的详情页面    }  }  context.startAbility(wantInfo).then(() => {    // ...  }).catch((err) => {    // ...  })}    FA模型 通过调用requestPermissionsFromUser()接口向用户动态申请授权。 已复制import featureAbility from '@ohos.ability.featureAbility';
+reqPermissions() {    let context = featureAbility.getContext();    let array:Array<string> = ["ohos.permission.PERMISSION2"];    //requestPermissionsFromUser会判断权限的授权状态来决定是否唤起弹窗    context.requestPermissionsFromUser(array, 1).then(function(data) {        console.log("data:" + JSON.stringify(data));        console.log("data permissions:" + JSON.stringify(data.permissions));        console.log("data result:" + JSON.stringify(data.authResults));    }, (err) => {        console.error('Failed to start ability', err.code);    });}   上一篇 访问控制（权限）开发概述 下一篇 访问控制权限校验指导 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。权限使用的基本原则权限的工作流程权限申请使用的工作流程权限校验的工作流程权限等级说明应用APL等级说明权限等级说明权限类型说明不同权限类型的授权流程user_grant权限请求授权的步骤详解访问控制（权限）开发概述 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+  ATM (AccessTokenManager) 是HarmonyOS上基于AccessToken构建的统一的应用权限管理能力。 默认情况下，应用只能访问有限的系统资源。但某些情况下，应用为了扩展功能的诉求，需要访问额外的系统或其他应用的数据（包括用户个人数据）、功能。系统或应用也必须以明确的方式对外提供接口来共享其数据或功能。HarmonyOS提供了一种访问控制机制来保证这些数据或功能不会被不当或恶意使用，即应用权限。 应用权限保护的对象可以分为数据和功能：  数据包含了个人数据（如照片、通讯录、日历、位置等）、设备数据（如设备标识、相机、麦克风等）、应用数据。 功能则包括了设备功能（如打电话、发短信、联网等）、应用功能（如弹出悬浮框、创建快捷方式等）等。  应用权限是程序访问操作某种对象的通行证。权限在应用层面要求有明确定义，应用权限使得系统可以规范各类应用程序的行为准则，实现用户隐私的保护机制。当应用访问操作目标对象时，目标对象会对应用进行权限检查，如果没有对应权限，则访问操作将被拒绝。 当前，ATM提供的应用权限校验功能是基于统一管理的TokenID（Token identity）。TokenID是每个应用的身份标识，ATM通过应用的TokenID来管理应用的权限。  权限使用的基本原则 在进行权限的申请和使用时，需要满足以下基本原则：  应用申请的权限，都必须有明确、合理的使用场景和功能说明，确保用户能够清晰明了地知道申请权限的目的、场景、用途；禁止诱导、误导用户授权；应用使用权限必须与申请所述一致。 应用权限申请遵循最小化原则，只申请业务功能所必要的权限，禁止申请不必要的权限。 应用在首次启动时，避免频繁弹窗申请多个权限；权限须在用户使用对应业务功能时动态申请。 用户拒绝授予某个权限时，与此权限无关的其他业务功能应能正常使用，不能影响应用的正常注册或登录。 业务功能所需要的权限被用户拒绝且禁止后不再提示，当用户主动触发使用此业务功能或为实现业务功能所必须时，应用程序可通过界面内文字引导，让用户主动到“系统设置”中授权。 当前不允许应用自行定义权限，应用申请的权限应该从已有的权限列表中选择。    权限的工作流程   权限申请使用的工作流程 应用在访问数据或者执行操作时，需要评估该行为是否需要应用具备相关的权限。如果确认需要目标权限，则需要在应用安装包中申请目标权限。 然后，需要判断目标权限是否属于用户授权类。如果是，应用需要使用动态授权弹框来提供用户授权界面，请求用户授权目标权限。 当用户授予应用所需权限后，应用可成功访问目标数据或执行目标操作。 应用使用权限的工作流程如图所示。  1：开发者可以参考已有的权限列表，判断应用能否申请目标权限。   权限校验的工作流程 应用在提供对外功能服务接口时，可以根据接口涉数据的敏感程度或所涉能力的安全威胁影响，在权限定义列表选择合适的权限保护当前接口，对访问者进行权限校验。 当且仅当访问者获取当前接口所需权限后，才能通过当前接口的权限校验，并正常使用当前应用提供的目标功能。 应用使用权限校验的工作流程如图所示。  1：根据应用当前提供的接口是否涉及敏感的数据或者功能，使用应用权限对当前接口进行访问控制。 2：应用可以在已有的权限列表选择适合的权限。比如应用提供的接口会涉及到麦克风使用的话，推荐使用麦克风相关的权限对接口进行保护。 3：应用可以使用权限校验接口对访问者进行鉴权，可参考权限校验说明。   权限等级说明 根据接口所涉数据的敏感程度或所涉能力的安全威胁影响，ATM模块定义了不同开放范围的权限等级来保护用户隐私。   应用APL等级说明 元能力权限等级APL（Ability Privilege Level）指的是应用的权限申请优先级的定义，不同APL等级的应用能够申请的权限等级不同。 应用的等级可以分为三个等级，分别是：     APL级别 说明    system_core等级 该等级的应用服务提供操作系统核心能力。   system_basic等级 该等级的应用服务提供系统基础服务。   normal等级 普通应用。    默认情况下，应用的APL等级都为normal等级。   权限等级说明 根据权限对于不同等级应用有不同的开放范围，权限类型对应分为以下三种，等级依次提高。  normal权限 normal 权限允许应用访问超出默认规则外的普通系统资源。这些系统资源的开放（包括数据和功能）对用户隐私以及其他应用带来的风险很小。 该类型的权限仅向APL等级为normal及以上的应用开放。 system_basic权限 system_basic权限允许应用访问操作系统基础服务相关的资源。这部分系统基础服务属于系统提供或者预置的基础功能，比如系统设置、身份认证等。这些系统资源的开放对用户隐私以及其他应用带来的风险较大。 该类型的权限仅向APL等级为system_basic及以上的应用开放。 system_core权限 system_core权限涉及到开放操作系统核心资源的访问操作。这部分系统资源是系统最核心的底层服务，如果遭受破坏，操作系统将无法正常运行。 鉴于该类型权限对系统的影响程度非常大，目前暂不向任何三方应用开放。    权限类型说明 根据授权方式的不同，权限类型可分为system_grant（系统授权）和user_grant（用户授权）。  system_grant system_grant指的是系统授权类型，在该类型的权限许可下，应用被允许访问的数据不会涉及到用户或设备的敏感信息，应用被允许执行的操作不会对系统或者其他应用产生大的不利影响。 如果在应用中申请了system_grant权限，那么系统会在用户安装应用时，自动把相应权限授予给应用。应用需要在应用商店的详情页面，向用户展示所申请的system_grant权限列表。 user_grant user_grant指的是用户授权类型，在该类型的权限许可下，应用被允许访问的数据将会涉及到用户或设备的敏感信息，应用被允许执行的操作可能对系统或者其他应用产生严重的影响。 该类型权限不仅需要在安装包中申请权限，还需要在应用动态运行时，通过发送弹窗的方式请求用户授权。在用户手动允许授权后，应用才会真正获取相应权限，从而成功访问操作目标对象。 比如说，在权限定义列表中，麦克风和摄像头对应的权限都是属于用户授权权限，列表中给出了详细的权限使用理由。 应用需要在应用商店的详情页面，向用户展示所申请的user_grant权限列表。    不同权限类型的授权流程 如权限的工作流程所示，如果应用需要获取目标权限，那么需要先进行权限申请。  权限申请 开发者需要在配置文件中声明目标权限。 权限授权  如果目标权限是system_grant类型，开发者在进行权限申请后，系统会在安装应用时自动为其进行权限预授予，开发者不需要做其他操作即可使用权限。 如果目标权限是user_grant类型，开发者在进行权限申请后，在运行时触发动态弹窗，请求用户授权，具体操作见user_grant权限请求授权的步骤详解。     user_grant权限请求授权的步骤详解 在应用需要获取user_grant权限时，请完成以下步骤：  在配置文件中，声明应用需要请求的权限，详见访问控制开发指导。 将应用中需要申请权限的目标对象与对应目标权限进行关联，让用户明确地知道，哪些操作需要用户向应用授予指定的权限。 运行应用时，在用户触发访问操作目标对象时应该调用接口，精准触发动态授权弹框。该接口的内部会检查当前用户是否已经授权应用所需的权限，如果当前用户尚未授予应用所需的权限，该接口会拉起动态授权弹框，向用户请求授权。 检查用户的授权结果，确认用户已授权才可以进行下一步操作。  注意事项：  每次执行需要目标权限的操作时，应用都必须检查自己是否已经具有该权限。 如需检查用户是否已向您的应用授予特定权限，可以使用checkAccessToken函数，此方法会返回 PERMISSION_GRANTED或PERMISSION_DENIED。具体的示例代码可以查看访问控制开发指导。 user_grant权限授权要基于用户可知可控的原则，需要应用在运行时主动调用系统动态申请权限的接口，系统弹框由用户授权，用户结合应用运行场景的上下文，识别出应用申请相应敏感权限的合理性，从而做出正确的选择。 即使用户向应用授予过请求的权限，应用在调用受此权限管控的接口前，也应该先检查自己有无此权限，而不能把之前授予的状态持久化，因为用户在动态授予后还可以通过设置取消应用的权限。    上一篇 访问控制 下一篇 访问控制授权申请 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。常见action与entities 更新时间: 2024-03-20 16:30 毫无帮助帮助不大一般很好非常好
+分享
+  action：表示调用方要执行的通用操作（如查看、分享、应用详情）。在隐式Want中，您可定义该字段，配合uri或parameters来表示对数据要执行的操作。如打开，查看该uri数据。例如，当uri为一段网址，action为ohos.want.action.viewData则表示匹配可查看该网址的Ability。在Want内声明action字段表示希望被调用方应用支持声明的操作。在被调用方应用配置文件skills字段内声明actions表示该应用支持声明操作。 常见action  ACTION_HOME：启动应用入口组件的动作，需要和ENTITY_HOME配合使用；系统桌面应用图标就是显式的入口组件，点击也是启动入口组件；入口组件可以配置多个。 ACTION_CHOOSE：选择本地资源数据，例如联系人、相册等；系统一般对不同类型的数据有对应的Picker应用，例如联系人和图库。 ACTION_VIEW_DATA：查看数据，当使用网址uri时，则表示显示该网址对应的内容。 ACTION_VIEW_MULTIPLE_DATA：发送多个数据记录的操作。  entities：表示目标Ability的类别信息（如浏览器、视频播放器），在隐式Want中是对action的补充。在隐式Want中，开发者可定义该字段，来过滤匹配应用的类别，例如必须是浏览器。在Want内声明entities字段表示希望被调用方应用属于声明的类别。在被调用方应用配置文件skills字段内声明entites表示该应用支持的类别。 常用entities  ENTITY_DEFAULT：默认类别无实际意义。 ENTITY_HOME：主屏幕有图标点击入口类别。 ENTITY_BROWSABLE：指示浏览器类别。   上一篇 显式Want与隐式Want匹配规则 下一篇 使用显式Want启动Ability 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。Stage模型添加UIAbility在模块中添加UIAbility在模块中添加Extension AbilityFA模型添加Ability创建Particle Ability创建Feature Ability在模块中添加Ability 更新时间: 2024-03-30 10:25 毫无帮助帮助不大一般很好非常好
+分享
+ Ability是应用/服务所具备的能力的抽象，一个Module可以包含一个或多个Ability。应用/服务先后提供了两种应用模型： FA（Feature Ability）模型： API 7开始支持的模型，已经不再主推。Stage模型：API 9开始新增的模型，是目前主推且会长期演进的模型。在该模型中，由于提供了AbilityStage、WindowStage等类作为应用组件和Window窗口的“舞台”，因此称这种应用模型为Stage模型。Stage模型包含两种Ability组件类型： UIAbility组件：包含UI界面，提供展示UI的能力，主要用于和用户交互。ExtensionAbility组件：提供特定场景的扩展能力，满足更多的使用场景。当前仅OpenHarmony工程支持使用ExtensionAbility组件，详细介绍请参见ExtensionAbility概述。  Stage模型添加UIAbility 在模块中添加UIAbility选中对应的模块，单击鼠标右键，选择New > Ability。 设置Ability名称，选择是否在设备主屏幕上显示该功能的启动图标，单击Finish完成Ability创建。   在模块中添加Extension Ability在OpenHarmony工程中选中对应的模块，单击鼠标右键，选择New > Extension Ability，选择不同的场景类型 。Accessibility：用于提供辅助功能业务的能力；WorkScheduler：用于提供延迟任务回调实现的能力。  设置Ability名称，单击Finish完成Extension Ability创建。    FA模型添加AbilityArkTS工程与JS工程在FA模型中添加Ability的操作方式一致，本节内容以ArkTS工程为例介绍在模块中添加Ability。  创建Particle Ability选中对应的模块，单击鼠标右键，选择New > Ability ，然后选择对应的Data Ability/Service Ability模板。 根据选择的Ability模板，设置Ability的基本信息。Ability name：Ability类名称，由大小写字母、数字和下划线组成。Language：该Ability使用的开发语言。 单击Finish完成Ability的创建，可以在工程目录对应的模块中查看和编辑Ability。  创建Feature Ability选中对应的模块，单击鼠标右键，选择New > Ability ，然后选择对应的Page Ability模板。 根据选择的Ability模板，设置Ability的基本信息。Ability name：Ability类名称，由大小写字母、数字和下划线组成。Launcher ability：表示该Ability在终端桌面上是否有启动图标，一个HAP可以有多个启动图标，来启动不同的FA。Language：该Ability使用的开发语言。Enable Super Visual：如果选择低代码方式开发，可打开此开关。 单击Finish完成Ability的创建，可以在工程目录对应的模块中查看和编辑Ability。   上一篇 编辑器使用技巧 下一篇 添加JS Component和Page 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。在工程中添加Module创建新的Module导入Module配置distroFilter分发规则删除Module添加/删除Module 更新时间: 2024-03-30 10:25 毫无帮助帮助不大一般很好非常好
+分享
+ Module是应用/服务的基本功能单元，包含了源代码、资源文件、第三方库及应用/服务配置文件，每一个Module都可以独立进行编译和运行。一个HarmonyOS应用/服务通常会包含一个或多个Module，因此，可以在工程中创建多个Module，每个Module分为Ability和Library两种类型。 在工程中添加Module 创建新的Module通过如下两种方法，在工程中添加新的Module。方法1：鼠标移到工程目录顶部，单击鼠标右键，选择New > Module...，开始创建新的Module。方法2：选中工程目录中任意文件，然后在菜单栏选择File > New > Module...，开始创建新的Module。 在New Project Module界面中，选择需要创建的模板，单击Next。 在Module配置页面，设置新增Module的基本信息，然后单击Next。Module name：新增模块的名称。Module type：仅在Ability模板存在该字段，可以选择Feature和Entry类型。如果同一类型的设备已经存在Entry模块，添加新Module选择Entry类型时，还需要配置distroFilter分发规则。Enable Super Visual：是否使用低代码开发方式。Language：选择该Module的开发语言。Device type：选择模块的设备类型，如果新建模块的Module type为feature，则只能选择该工程原有的设备类型；如果Module type为entry，可以选择该Module支持的其他设备类型。Enable native：仅Library模板存在，将创建一个可以调用C/C++的共享包。  若该Module的模板类型为Ability，还需要设置新增Ability的Ability name和Exported参数，Exported参数表示该Ability是否可以被其它应用/服务所调用（FA模型下为Visible参数)。勾选（true）：可以被其它应用/服务调用。不勾选（false）：不能被其它应用/服务调用。 单击Finish，等待创建完成后，可以在工程目录中查看和编辑新增的Module。  导入ModuleHarmonyOS工程支持从其它工程中导入HarmonyOS模块的功能，导入的模块只能是HarmonyOS工程中的模块。当前仅支持FA模型的模块导入到FA模型，Stage模型的模块导入到Stage模型，不支持FA模型的模块导入到Stage模型或Stage模型的模块导入到FA模型。 在菜单栏单击File > New >Import... >Import Module。 选择导入的模块时。其中SDK 4-7的工程既可以选择模块也可以选择工程，而SDK 8-9的工程只可以选择模块。下面以SDK 8-9的工程为例介绍导入模块的具体操作。在指定路径下，选择导入的模块，单击OK。导入的模块可以为文件夹，也可以为zip格式。    配置distroFilter分发规则同一类型的设备（Phone、Wearable、Lite Wearable等）可能在系统API版本（apiVersion）、屏幕形状（screenShape）、分辨率（screenWindow）上存在差异。针对这些差异，开发者需要针对同一类型设备的不同型号进行适配开发，然后在应用市场实现精准的分发，以便不同设备的用户能获得更好的使用体验。为了实现应用市场的精准分发，需要在一个工程中，针对同一类型设备添加多个Entry模块来适配不同型号的设备，然后再配置不同的分发规则。具体规则如下： 通过DeviceType与screenShape等属性的组合唯一确定一个Entry。distroFilter中至少包含属性中的一个标签。如果一个Entry模块中配置了screenShape等任意一个或多个标签，则其他的Entry模块也必须包含相同的标签。一般情况下，screenShape和screenWindow标签用于Lite Wearable设备中。不同属性标签的配置格式如下。其中，policy取值为include时，表示设备满足value取值时，应用市场向该设备进行分发；policy取值为exclude时，表示除了value的取值外，其它合法的取值，应用市场都会向设备进行分发。
+说明
+screenWindow标签的policy取值只能为include。 
+  Stage模型配置分发规则 在entry > src > main > resources > profile文件夹中新建一个.json文件，并根据开发实际需要，配置如下代码信息。Stage模型下分发规则请参见distroFilter标签。已复制{   "distroFilter": {      "apiVersion": {     //API 版本         "policy": "include",         "value": [4, 5]      },      "screenShape": {    //屏幕形状枚举         "policy": "include",         "value": ["circle", "rect"]      },      "screenWindow": {   //屏幕尺寸         "policy": "include",         "value": ["454*454", "466*466"]      },      "screenDensity": {  //屏幕的像素密度         "policy": "exclude",         "value": ["ldpi", "xldpi"]      },      "countryCode": {   //国家地区         "policy": "include",         "value": ["CN", "HK"]       }   }} 在module.json文件中指定分发文件。已复制{  "module": {    "name": "MyAbilityStage",    "metadata": [      {        "name": "ohos.module.distro",        "resource": "$profile:distro_filter_config"    //distro_filter_config为被指定的分发文件      }    ]  }}  FA模型下配置分发规则 在同一个工程中，如果同一个设备存在多个Entry模块，需要在每一个Entry模块的config.json文件中，配置distroFilter分发规则。FA模型distroFilter字段请参见distroFilter对象的内部结构。已复制"module": {  ...  "distroFilter": {    "标签名字": {      "policy": "include|exclude"      "value": [ a, b, c]     }  }}   删除Module在工程目录中选中要删除的模块，单击鼠标右键，选中Delete，并在弹出的对话框中单击Delete。   上一篇 导入Sample工程 下一篇 应用/服务开发 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。添加JS Component添加Page添加JS Component和Page 更新时间: 2024-03-30 10:25 毫无帮助帮助不大一般很好非常好
+分享
+ 在支持JS语言的工程中，支持添加新的JS Component（仅支持API Version 4~7）和Page，在支持ArkTS语言的工程中，支持添加Page。 JS Component：在JS工程中，可以存在多个JS Component（例如js目录下的default文件夹就是一个JS Component），一个JS FA对应一个JS Component，可以独立编译、运行和调试。
+说明
+Lite Wearable和Smart Vision设备对应的JS工程，只存在一个JS FA，因此，Lite Wearable和Smart Vision设备的JS工程不允许创建新的JS Component。 
+ Page：Page是表示Feature Ability的一个前台页面，其中JS工程添加Page后，在pages文件夹下生成新的page文件夹，包含JS、HML和CSS文件，是Component的最基本单元，构成了JS FA的每一个界面。ArkTS语言的工程添加Page后，会在pages文件夹下生成一个新的ets文件。 添加JS Component在JS工程目录中，选中js文件夹，单击鼠标右键，选择New > JS Component，输入JS component name（由大小写字母、数字和下划线组成），单击Finish完成添加。   添加Page在JS工程目录中或ArkTS工程目录中添加Page的操作相同，以下以JS工程为例进行说明，选择需要添加Page的Component下的pages文件夹，单击鼠标右键，选择New >Page，输入Page name（由大小写字母、数字和下划线组成），单击Finish完成添加。 
+说明
+如果是Har模块，则可以在Har模块下的任意目录下进行添加。仅API 8~9的har模块支持添加Page。 
+    上一篇 在模块中添加Ability 下一篇 开发及引用共享包 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。（可选）在AGC控制台创建同包名应用（可选）将游离应用添加到AGC项目下AGC应用管理 更新时间: 2024-03-30 10:25 毫无帮助帮助不大一般很好非常好
+分享
+ （可选）在AGC控制台创建同包名应用如创建工程时，发现尚未在AGC控制台创建与工程包名相同的应用，可进行补充创建。 点击界面提示内的“AppGallery Connect”，浏览器打开AGC控制台“我的项目”页面。 点击选择您希望创建应用的项目，或者点击“添加项目”新建一个项目。 如选择了新建一个项目，设置项目名称，点击“确认”。如选择了已有项目，则忽略此步骤。  设置或管理项目数据处理位置，完成后点击“下一步”。
+注意
+启用的数据处理位置必须包含中国站点。 
+ 如项目尚未设置数据处理位置，点击“启用”进行设置，具体设置规则与方法可参考设置数据处理位置。 如项目已设置过数据处理位置，可点击“管理”进行修改，具体规则与方法可参考管理数据处理位置。   进入创建应用页面，填写应用信息。  参数  说明    选择平台  默认选中“APP（HarmonyOS）”，其他平台不可选。   支持设备  请根据您的需求选择应用发布后运行的设备。由于API 9目前仅支持手机设备，此处请选择“手机”。   应用名称  请填写新创建的应用名称，创建成功后将获取一个新的APP ID，应用名称支持在应用信息中修改。   应用包名  从DevEco Studio中带入自动填充，且不可更改。   应用分类  请选择普通应用或游戏类应用。 
+说明
+应用分类设置后不支持修改，请谨慎选择。 
+   默认语言  华为应用市场客户端应用详情页中应用相关描述的默认语言。系统默认为中国大陆开发者创建的应用选择“简体中文”，请根据实际情况选择。   是否元服务  创建的HarmonyOS应用形态，默认与您本地工程类型保持一致，不可更改。     点击“确认”，应用创建完成。 点击“关闭窗口”，可在“我的项目”页面查看刚刚新建的应用，之后您即可回到HUAWEI DevEco Studio继续配置和开发您的工程。点击“前往控制台”，可进入当前应用的“项目设置”菜单管理和配置您的项目和应用。   （可选）将游离应用添加到AGC项目下游离应用指未关联任何AGC项目的应用。创建工程时，如需要关联的AGC应用为游离应用，则您需要将该应用添加到您的AGC项目下。 
+注意
+应用与项目的关联关系一旦创建则无法再修改，请谨慎操作。 
+ 点击“Not associated yet”，或将鼠标悬停在应用名称前的选择按钮上、点击弹出的气泡提示内的“AppGallery Connect”，可打开AGC控制台“我的项目”页面。 点击选择希望为应用关联的项目，或者点击“添加项目”新建一个项目。 如选择了新建一个项目，设置项目名称，点击“确认”。如选择了已有项目，则忽略此步骤。  设置或管理项目数据处理位置。
+注意
+启用的数据处理位置必须包含中国站点。 
+ 如项目尚未设置数据处理位置，点击“启用”进行设置，具体设置规则与方法可参考设置数据处理位置。 如项目已设置过数据处理位置，可点击“管理”进行修改，具体规则与方法可参考管理数据处理位置。   点击“确认”，应用成功关联项目。 点击“关闭窗口”，可在“我的项目”页面查看刚刚关联的应用，之后您即可回到HUAWEI DevEco Studio继续配置和开发您的工程。点击“前往控制台”，可进入当前应用的“项目设置”菜单管理和配置您的项目和应用。    上一篇 登录组件 下一篇 优秀案例 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。优秀案例 更新时间: 2024-03-30 10:25 毫无帮助帮助不大一般很好非常好
+分享
+ 为帮助开发者更好地理解与使用端云一体化开发功能，本页面汇总了开发者的优秀开发案例。 分类  主题  简介    游戏类  记忆翻牌游戏  一款卡片配对翻牌游戏，使用云数据库来设计卡片表结构和游戏记录表结构，并通过云函数调用云数据库来实现数据的增删改查。   工具类    无聊数学  一款提供逻辑推理类数学题进行闯关游戏的工具类元服务，前端基于ArkTS开发，后端则在多个场景接入Serverless服务，如：基于认证服务开发用户登录系统，使用游戏排行榜模板服务开发游戏榜单，选择云存储服务来存储数学题目以及图片资源等。   每日走心文案  一款可在桌面展示文案、并支持切换文案的工具类元服务，前端基于ArkTS开发，后端使用Node.js，同时云侧接入云数据库服务作为文案数据库。   诗词卡片  一款根据节日/节气推荐契合主题的诗词的小工具，使用云数据库来导入诗词与节日/节气的关联数据，使用一个云函数查询节日/节气以确定当日诗词主题，使用另一个云函数来根据传入的主题在云数据库中查询并返回符合条件的数据。      上一篇 AGC应用管理 下一篇 编译构建 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。创建对象类型创建数据条目手动创建数据条目文件自动生成数据条目文件部署云数据库开发云数据库 更新时间: 2024-03-30 10:25 毫无帮助帮助不大一般很好非常好
+分享
+ 您可以在云侧工程下开发云数据库资源，包括创建对象类型、在对象类型中添加数据条目、部署云数据库。 创建对象类型对象类型（即ObjectType）用于定义存储对象的集合，不同的对象类型对应的不同数据结构。每创建一个对象类型，云数据库会在每个存储区实例化一个与之结构相对应的对象类型，用于存储对应的数据。 您可在云数据库工程中创建对象类型。  右击“clouddb > objecttype”目录，选择“New > Cloud DB Object Type”。  输入“Object Type Name”后，点击“OK”。 “clouddb/objecttype”目录下生成并打开新建的对象类型JSON文件。   为该对象类型配置字段、索引、以及角色与权限。在“fields”中为对象类型配置字段信息。   参数  说明    fieldName  字段名称。输入要求具体如下： 字段的名称长度必须大于或等于1个字符，小于或等于30个字符，只能包含以下3种类型，并且至少包含“字母”类型：字母（A-Z或a-z）数字（0-9）特殊字符：_ 字段名称必须以字母开头，以字母或者数字结尾。字段名称中不区分字母的大小写。每个对象类型，仅支持设置一种自增类型字段：IntAutoIncrement或LongAutoIncrement。修改对象类型时，不支持新增数据类型为IntAutoIncrement或LongAutoIncrement的字段，支持新增其它数据类型的字段。修改对象类型时，支持删除字段。字段名称不允许使用系统保留字段名称： naturalbase_version、naturalbase_deleted、naturalbase_operationtype、naturalbase_creator、naturalbase_accesstime、naturalbase_operationtime、naturalbase_syncstatus、naturalbase_changedfieldsbitmap、naturalbase_lastmodifier、cmin、cmax、xmin、xmax、ctid、oid、tableoid、xc_node_id、tablebucketid、rowid和tid。   fieldType  字段的数据类型。 当前支持的数据类型：String、Boolean、Byte、Short、Integer、Long、Float、Double、ByteArray、Text、Date、IntAutoIncrement和LongAutoIncrement。   belongPrimaryKey  设置该字段是否为对象类型的主键，默认值为false。 至少设置一个字段为主键。支持设置复合主键，由多个字段组合成为主键，一个复合主键包含的字段小于等于5个，复合主键字段顺序与字段的顺序一致。数据类型为ByteArray、Text、Date、Double、Float和Boolean的字段不支持设置为主键。主键的值不允许更改。   notNull  设置字段值是否为非空，默认值为false。 数据类型为ByteArray和Date的字段不支持设置为非空。数据类型为IntAutoIncrement和LongAutoIncrement的字段默认为非空，且不允许更改。主键默认非空，且不允许更改。设置为非空的字段不支持加密和敏感。   isNeedEncrypt  设置字段是否需要加密，开启全程加密数据管理功能，默认值为false。 选择加密后，该字段对应的数据会加密存储在存储区中。 主键字段不支持加密。加密的字段不支持设置为非空。加密的字段不支持设置为敏感字段。一个对象类型中包含的加密字段和敏感字段的总数需小于或等于5个。字段设置为加密后，不支持导出该字段的数据值。数据类型为ByteArray、Text、IntAutoIncrement和LongAutoIncrement的字段不支持加密。对象类型创建成功后，不支持修改加密属性。   isSensitive  设置字段是否为敏感字段，默认值为false。 选择敏感后，该字段对应的数据会加密存储在存储区中。 敏感字段不支持设置为主键。敏感字段不支持设置为非空。敏感字段不支持设置为加密。敏感字段不支持设置为默认值。对象类型创建成功后，不支持修改敏感属性。仅支持数据类型为Byte、Short、Integer、Long、Float、Double、String和Date的字段设置为敏感字段。敏感字段不支持设置为索引。一个对象类型中包含的加密字段和敏感字段的总数需小于或等于5个。   defaultValue  字段为非空时，必须设置默认值。 主键不支持设置默认值。加密字段和敏感字段不支持设置默认值。数据类型为ByteArray、Date、IntAutoIncrement和LongAutoIncrement的字段不支持为其设置默认值。数据类型为Text的字段设置默认值时，默认值的长度小于或等于200个字符。      在“indexes”中为对象类型配置索引和索引详情。   参数  说明    indexName  索引名称。输入要求具体如下： 索引的名称长度必须大于或等于1个字符，小于或等于30个字符，只能包含以下3种类型，并且至少包含“字母”类型：字母（A-Z或a-z）数字（0-9）特殊字符：_ 索引名称必须以字母开头。索引名称中不区分字母的大小写。修改对象类型时，仅支持新增或者删除索引。当删除索引后，本次提交前不允许新增同名索引。每个对象类型可以设置小于或等于16个索引。数据类型为ByteArray和Text的字段不支持设置为索引。   indexList  索引包含的字段（fieldName）和排序方式（sortType）。 支持设置组合索引，由多个字段组合成为索引，一个组合索引包含的字段小于或等于5个。支持索引按照升序或降序方式排序。       在“permissions”中设置各角色是否具有该对象类型的Read、Upsert（包含新增和修改）和Delete权限。   角色  Read  Upsert  Delete  说明    World  ✓  ✓  ✓  代表所有用户，包含认证和非认证用户。 该角色默认拥有Read权限，可自定义配置Upsert和Delete权限。 但是，不建议将Upsert和Delete权限配置给所有人角色。 当对象类型中设置了加密字段之后，表示开启全程加密功能，此时World角色将不会拥有Read、Upsert和Delete权限，且不允许修改。   Authenticated  ✓  ✓  ✓  经过AGC登录认证的用户。 该角色默认拥有Read权限，可自定义配置Upsert和Delete权限。 当对象类型中设置了加密字段之后，表示开启全程加密功能，此时Authenticated角色将不会拥有Read、Upsert和Delete权限，且不允许修改。   Creator  ✓  ✓  ✓  经过认证的数据创建用户。 该角色默认拥有所有权限，且可自定义配置所有权限。 每条数据都有其对应的数据创建人（即应用用户），每个数据创建者仅可以Upsert或者Delete自己创建的数据，不能Upsert或者Delete他人创建的数据。 数据创建者的信息保存在数据记录的系统表中。   Administrator  ✓  ✓  ✓  应用开发者，主要是指通过AGC控制台或FaaS（Function as a Service，函数即服务）侧访问云数据库的角色。 该角色默认拥有所有权限，且可自定义配置所有权限。 Administrator可以管理并配置其他角色的权限。       创建数据条目创建完对象类型后，您可为对象类型添加数据条目（即DataEntry），来预置刷库数据。 支持手动创建和自动生成数据条目文件。  手动创建数据条目文件右击“clouddb/dataentry”目录，选择“New > Cloud DB Data Entry”。  在“Object Type”栏选择需添加数据条目的对象类型，在“Data Entry Name”栏定义数据条目名，完成后点击“OK”。 “clouddb/dataentry”目录下生成并打开新建的数据条目JSON文件，该文件中已为您预置好所选对象类型名称（如下图“objecttype1”）与字段名（如下图“id”、“bookName”、“author”、“price”、“publishTime”、“shadowFlag”）。   配置存储区和字段的值（即数据）。“cloudDBZoneName”：配置数据条目所在的存储区名称，如下图“cloudDBZone1”。“objects”：配置当前对象类型中所有字段的值。一个对象（object）即为一条数据，您可以通过新建一个对象（object）来为字段赋新值，也可以修改某个对象（object）下字段的值（主键或加密字段的值不支持修改）。     自动生成数据条目文件右击对象类型JSON文件，选择“Generate Data Entry”。以“objecttype1.json”文件为例，对象类型“objecttype1”包含了id、bookName、author、price、publishTime、shadowFlag六个字段。   在弹出的“Create Cloud DB Data Entry”框内，为即将生成的数据条目定义名称，如“dataentry1”。 “clouddb/dataentry”目录下自动为该对象类型生成数据条目JSON文件，该文件中已为您预置好所选对象类型名称（如下图“objecttype1”）与字段名（如下图“id”、“bookName”、“author”、“price”、“publishTime”、“shadowFlag”）。  配置存储区和字段的值（即数据）。“cloudDBZoneName”：配置数据条目所在的存储区名称，如下图“cloudDBZone1”。“objects”：配置当前对象类型中所有字段的值。一个对象（object）即为一条数据，您可以通过新建一个对象（object）来为字段赋新值，也可以修改某个对象（object）下字段的值（主键或加密字段的值不支持修改）。     部署云数据库云数据库资源全部开发完成后，您可以将云数据库统一部署到AGC控制台。 右击“clouddb”目录，选择“Deploy Cloud DB”。  您可在底部状态栏右侧查看云数据库打包与部署进度。请您耐心等待，直至出现“Deploy successfully”消息，表示云数据库已成功部署。    登录AppGallery Connect，进入当前项目的云数据库服务菜单，可分别在“对象类型”、“存储区”与“数据”页签查看到您刚刚部署的云数据库资源。
+说明
+部署对象类型或数据条目JSON文件，实际是部署JSON文件内包含的对象类型或数据条目。因此，您在AGC控制台查看到的将是一个个对象类型或者一条条数据，而非JSON文件。 
+ 您可以在AGC控制台继续编辑以上部署的云数据库资源，具体操作请参考管理数据库。     上一篇 开发云函数 下一篇 部署云工程 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。创建函数调试函数Run模式启动调试Debug模式启动调试自定义Run/Debug配置调试商城模板工程函数部署函数部署单个函数批量部署函数开发云函数 更新时间: 2024-03-30 10:25 毫无帮助帮助不大一般很好非常好
+分享
+ 您可以在云侧工程下开发云函数资源，包括创建函数、调试函数、部署函数。 创建函数您可直接在DevEco Studio创建函数、编写函数业务代码、为函数配置调用触发器。 右击“cloudfunctions”目录，选择“New > Cloud Function”。  输入函数名称后，点击“OK”。函数名称仅支持小写英文字母、数字、中划线（-），首字符必须为小写字母，结尾不能为中划线（-）。  “cloudfunctions”目录下生成新建的函数目录。   配置函数。node_modules：自动为该函数引入的依赖包。function-config.json：函数的配置文件，可配置触发器，通过触发器暴露的触发条件来实现函数调用。 在“triggers”下配置触发器，云函数目前支持以下5种触发器。 
+注意
+如您需在函数部署完成后更新触发器，请先删除之前的触发器配置，再添加新的触发器配置，否则您的更新将不生效。 
+ HTTP触发器function-config.json文件中已为您自动完成HTTP触发器配置。函数部署到云端后会自动生成触发URL，在您向该URL发起HTTP请求时触发函数。关于如何使用HTTP触发器调用函数，请参见通过HTTP触发器调用函数。 已复制{  "type": "http",  "properties": {    "enableUrlDecode": true,    "authFlag": "true",    "authAlgor": "HDA-SYSTEM",    "authType": "apigw-client"  }} type：触发器类型，配置为“http”。properties：触发器属性，属性参数如下表所示。 参数  说明    enableUrlDecode  通过HTTP触发器触发函数时，对于contentType为“application/x-www-form-urlencoded”的触发请求，是否使用URLDecoder对请求body进行解码再转发到函数中。 true：启用。false：不启用。   authFlag  是否鉴权，默认为true。   authAlgor  鉴权算法，默认为HDA-SYSTEM。   authType  HTTP触发器的认证类型。 apigw-client：端侧网关认证，适用于来自APP客户端侧（即本地应用或者项目）的函数调用。cloudgw-client：云侧网关认证，适用于来自APP服务器侧（即云函数）的函数调用。       CLOUDDB触发器为函数配置CLOUDDB触发器后，当云数据库发生插入或者更新数据、删除数据、清空数据等变更操作时将触发云函数。关于如何使用CLOUDDB触发器调用函数，请参见云数据库调用函数。 已复制{  "type": "clouddb",  "properties": {    "eventSourceId": "9***-test-user",    "eventType": "onUpsert",    "enabled": "true"  }} type：触发器类型，配置为“clouddb”。properties：触发器属性，属性参数如下表所示。 参数  说明    eventSourceId  CLOUDDB触发器的数据源。 格式为：项目ID-CloudDB存储区名称-CloudDB对象类型名称，例如“99034201568569469-StorageArea-student”。 CloudDB存储区名称以字母开头，可选范围为[0-9A-Za-z]，不带下划线，长度为1~20个字符。CloudDB对象类型名称以字母开头，可选范围为[0-9A-Za-z_]，不允许以sqlite_开头，不允许以下划线结尾，长度为1~30个字符。   eventType  触发器支持的事件类型。 onUpsert：数据表插入或更新数据。onDelete：数据表删除数据。onDeleteAll：数据表清空。onWrite：数据插入或更新事件、数据删除事件、数据表清空事件。   enabled  标识触发器的状态。默认为启用（true），可设置。      AUTH触发器您可以为函数配置AUTH触发器来接收用户的注册、登录等关键事件。例如，若添加了“用户注册”事件类型的AUTH触发器，当认证服务检测到用户注册事件发生时将触发函数。关于如何使用AUTH触发器调用函数，请参见认证服务调用函数。 已复制{  "type": "auth",  "properties": {    "eventType": 0  }} type：触发器类型，配置为“auth”。properties：触发器属性，属性参数如下表所示。 参数  说明    eventType  触发器支持的事件类型。 0：用户注册事件。1：用户销户事件。2：用户登录事件。3：用户登出事件。 
+说明
+同一个事件，一个函数只能绑定一次。一个函数可以被认证服务的多个事件类型触发，一个认证服务的事件类型可以触发多个函数执行。 
+      CLOUDSTORAGE触发器为函数配置CLOUDSTORAGE触发器后，当AGC云存储服务中发生文件或者文件夹上传或删除操作时，将触发函数并执行您想要实现的功能。关于如何使用CLOUDSTORAGE触发器调用函数，请参见云存储调用函数。 已复制{  "type": "cloud_storage",  "properties": {    "bucketName": "harmony-0xnwg",    "eventName": "storage.upload.completed"  }} type：触发器类型，配置为“cloud_storage”。properties：触发器属性，属性参数如下表所示。 参数  说明    bucketName  云存储服务中已创建的存储实例名称，该存储实例中的文件变化将作为触发事件源。   eventName  触发器支持的事件类型。 storage.upload.completed：文件上传。storage.file.delete：文件删除。      CRON触发器CRON触发器即定时任务触发器，用于在指定的时间点触发云函数。关于如何使用CRON触发器调用函数，请参见通过定时任务触发器调用函数。 已复制{  "type": "cron",  "properties": {    "triggerMode": "Sync",    "schedule": "@every 6m",    "triggerSwitch": true,    "triggerName": "test0516"  }} type：触发器类型，配置为“cron”。properties：触发器属性，属性参数如下表所示。 参数  说明    triggerMode  调用方式。 Sync：同步调用。ASync：异步调用。   schedule  触发函数的时间计划。支持如下两种格式： Every表达式@every value unit格式，其中value为一个正整数，unit可以为“s”、“m”、“h”，表示每隔value unit的时间触发一次函数。例如，“@every 6m” 表示每隔6分钟触发一次函数。 Cron表达式cron(Minute Hour Day-of-month Month-of-year Day-of-week)格式，即kubernetes cronjob支持的标准的cron表达式的形式Minutes：值范围0-59，支持括号内的特殊字符（, - * /）Hours：值范围0-23，支持括号内的特殊字符（, - * /）Day-of-month：值范围1-31，支持括号内的特殊字符（, - * /）Month-of-year：值范围1-12或JAN-DEC，支持括号内的特殊字符（, - * /）Day-of-week：值范围1-7或SUN-SAT，支持括号内的特殊字符（, - * ） 
+说明
+cron在欧洲站点以UTC时间运行，在非欧洲站点以北京时间运行。 
+  下列提供了cron表达式的一些常用设置示例： 如希望北京时间每天12:00触发函数，则UTC时间为每天4:00触发函数，cron表达式设为：0 4 * * *如希望北京时间每天12:30触发函数，则UTC时间为每天4:30触发函数，cron表达式设为：30 4 * * *如希望北京时间每小时的26分，29分，33分触发函数，则UTC时间为每小时的26分，29分，33分触发函数，cron表达式设为：26,29,33 * * * *如希望北京时间周一到周五的每天12:30触发函数，则UTC时间为周一到周五的每天4:30触发函数，cron表达式设为：30 4 * * MON-FRI如希望北京时间周一到周五的每天12:00-14:00每5分钟触发函数，则UTC时间为周一到周五的每天4:00-6:00每5分钟触发函数，cron表达式设为：0/5 4-6 * * MON-FRI如希望北京时间一到四月每天12:00触发函数，则UTC时间为一到四月每天4:00触发函数，cron表达式设为：0 4 * JAN,FEB,MAR,APR *    triggerSwitch  触发器是否自动开启。   triggerName  触发器名称，仅起到显示作用。 不超过32位，仅支持输入小写字母、数字、$和中划线，以小写字母开头，数字或小写字母结尾。触发器名称必须唯一。        helloworld.ts：函数入口文件（此处以“helloworld.ts”为例，请以实际名称为准）。请参考开发函数编写函数代码。  package.json：包含了当前函数的名称、版本等函数元数据。package.json内自动引入了云数据库的最新版本Node.js Server SDK，您也可以在“dependencies”下添加其他需要的依赖。  package-lock.json：保存了node_modules中所有包的信息，如版本、下载地址等。    调试函数函数开发过程中，您可在本地进行调试。或者您也可以将函数部署到AGC云端后，在本地触发调用云端函数。 目前本地调试支持Run和Debug两种模式。Debug模式支持使用断点来追踪函数的运行情况，Run模式则不支持。 
+注意
+在通用云开发模板工程与商城模板工程下调试函数的流程基本一致，但商城模板工程目前存在一些特殊限制，因此如需调试商城模板工程函数，请直接参考调试商城模板工程函数操作。 
+  Run模式启动调试右击“cloudfunctions”目录，选择“Run Cloud Functions”。
+说明
+直接从当前路径下Run，使用的是默认的Run配置，您也可自定义Run配置。自定义Run配置后再从此路径下Run，将优先采用自定义Run配置。 
+  查看“Run”面板。如果出现“Cloud Functions loaded successfully”，表示所有函数已成功加载到本地运行的HTTP Server中，并生成对应的POST URL。 在菜单栏选择“Tools > CloudDev > Cloud Functions Requestor”，使用Cloud Functions Requestor触发函数调用。 在弹出的“Cloud Functions Requestor”面板，填写触发事件参数。 Environment：选择函数调用环境，Local表示本地调用，Remote表示远程调用。
+注意
+远程调用需先将函数部署到AGC云端。 
+ Cloud Function：选择需要触发的云函数。Event：输入事件参数，内容为JSON格式请求体数据。 （可选）点击“Save”，可保存当前触发事件。 点击右上角可展开保存的触发事件，后续可直接点击“Load”加载事件。对于不需要保存的触发事件，也可以点击“Delete”删除。  点击“Trigger”， 将会触发执行用户函数代码。执行结果将展示在“Result”框内，Run面板同时打印运行日志。 （可选）如配置了环境变量（如下图中“env1”），可将变量配置信息传入到函数执行环境中，用于函数运行时读取。 点击Run面板左侧，可停止运行。根据运行结果修改函数代码后，点击重新以Run模式启动调试，直至没有问题。参考步骤4~9，完成其他函数的调试。  Debug模式启动调试右击“cloudfunctions”目录，选择“Debug Cloud Functions”。
+说明
+直接从当前路径下Debug，使用的是默认的Debug配置，您也可自定义Debug配置。自定义Debug配置后再从此路径下Debug，将优先采用自定义Debug配置。 
+  查看Console面板。如果出现“Cloud Functions loaded successfully”，表示函数成功加载到本地运行的HTTP Server中，并生成对应的POST URL。 如需设置断点调试，在函数代码中选定要设置断点的有效代码行，在行号（如下图行14）后单击鼠标左键设置断点（如下图的红点）。设置断点后，调试能够在断点处中断，并高亮显示该行。  在菜单栏选择“Tools > CloudDev > Cloud Functions Requestor”，使用Cloud Functions Requestor触发函数调用。 在弹出的“Cloud Functions Requestor”面板，填写触发事件参数。 Environment：选择函数调用环境，Local表示本地调用，Remote表示远程调用。
+注意
+远程调用需先将函数部署到AGC云端。 
+ Cloud Function：选择需要触发的云函数。Event：输入事件参数，内容为JSON格式请求体数据。 （可选）点击“Save”，可保存当前触发事件。 点击右上角可展开保存的触发事件，后续可直接点击“Load”加载事件。对于不需要保存的触发事件，也可以点击“Delete”删除。  点击“Trigger”， 将会触发执行用户函数代码。执行结果将展示在“Result”框内，Debugger面板同时打印调试日志。 （可选）如配置了环境变量（如下图中“env1”），可将变量配置信息传入到函数执行环境中，用于函数运行时读取。 点击，可停止调试。 根据调试结果修改函数代码后，点击重新以Debug模式启动调试，直至没有问题。参考步骤5~10，完成其他函数的调试。  自定义Run/Debug配置按以上两种方法直接启动调试采用的是默认的Run/Debug配置。如有特殊需求，您也可使用自定义Run/Debug配置项来进行调试。 在菜单栏选择“Run > Edit Configurations”。 在“Run/Debug Configurations”窗口，点击，选择“Cloud Functions”，新增一个Run/Debug配置。 自定义Run/Debug配置，完成后点击“OK”。Name：Run/Debug配置的名称，如“functions-custom1”。Server Port：HTTP服务端监听端口。默认为“18090”，自定义端口号建议大于1024。勾选“Auto increment”表示如当前端口被占用则端口号自动加“1”。Environment variables：函数运行的环境变量，为key-value形式。点击“Edit environment variables”按钮，在“Environment Variables”弹窗中点击“+”添加一个环境变量，然后点击“OK”。添加成功后，您便可以将变量配置信息传入到函数执行环境中，用于函数运行时读取。    选择刚刚自定义的Run/Debug配置，分别点击或进行Run或Debug。后续调试步骤与默认配置下的调试步骤一致，请分别参见Run模式启动调试或Debug模式启动调试。   调试商城模板工程函数商城模板中有部分代码逻辑实现了云函数调用云数据库，因此需要您先部署云工程，云端才会有相关数据及环境变量。同时，云函数为访问云数据库使用了“PROJECT_CREDENTIAL”环境变量，部署函数到AGC云端时，云端会自动配置好“PROJECT_CREDENTIAL”以运行环境变量。但在本地调试函数时，需要您手动将“PROJECT_CREDENTIAL”环境变量添加到Run/Debug配置中。否则，函数调试代码执行会因获取不到“PROJECT_CREDENTIAL”环境变量而中断。 本章节将介绍如何在本地调试商城模板工程函数，重点详述商城模板函数调试的一些特殊配置。 将整个云工程部署到AGC云端。进入AGC控制台，选择您的项目，进入“Serverless > 云函数”菜单，在函数列表点击刚刚部署的任意函数（如下图“mall-commodity”）。 在函数概览页面，选择“配置 > 环境变量”页签，获取AGC为您自动配置好的环境变量“PROJECT_CREDENTIAL”的key和value值。 参考自定义Run/Debug配置新增函数调试配置，将步骤3获取的“PROJECT_CREDENTIAL”环境变量添加到调试配置中。您也可以添加您需要的其他环境变量。 选择刚刚自定义的Run/Debug配置，分别点击或进行Run或Debug，调试步骤请分别参见Run模式启动调试或Debug模式启动调试。   部署函数完成函数代码开发后，您可将函数部署到AGC控制台，支持单个部署和批量部署。  部署单个函数右击需部署的函数目录，选择“Deploy Function”。  “底部状态栏右侧将展示函数打包与部署进度。请您耐心等待，直至出现“Deploy successfully”消息，表示函数已成功部署。   登录AppGallery Connect，进入当前项目的云函数服务菜单，可查看到您刚刚部署的函数，函数名称与本地工程的函数目录名相同。   批量部署函数批量部署指将整个云函数目录下创建的所有函数同时部署到AGC控制台。 右击“cloudfunctions”目录，选择“Deploy Cloud Functions”。  您可在底部状态栏右侧查看函数打包与部署进度。请您耐心等待，直至出现“Deploy successfully”消息，表示所有函数均已成功部署。   登录AppGallery Connect，进入当前项目的云函数服务菜单，可查看到您刚刚部署的云函数目录下的所有函数，函数名称均与本地工程的函数目录名相同。     上一篇 开发云工程 下一篇 开发云数据库 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。端云一体化组件 更新时间: 2024-03-30 10:25 毫无帮助帮助不大一般很好非常好
+分享
+    概述  登录组件   上一篇 部署云工程 下一篇 概述 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。概述 更新时间: 2024-03-30 10:25 毫无帮助帮助不大一般很好非常好
+分享
+ DevEco Studio还为您提供多种端云一体化组件。集成端云一体化组件后，您只需进行简单配置即可向应用用户提供登录、支付等众多功能。 组件  说明    登录  集成登录组件后，可向应用用户提供登录和登出功能。   其他  敬请期待……      上一篇 端云一体化组件 下一篇 登录组件 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。云开发工程模板新建HarmonyOS应用工程前提条件选择云开发模板配置工程信息关联云开发资源新建元服务工程前提条件选择云开发模板配置工程信息关联云开发资源工程初始化配置自动开通云开发相关服务端侧工程自动集成AGC SDK云侧工程自动集成云数据库SDK端云一体化开发工程介绍端开发工程（Application）云开发工程（CloudProgram）端侧公共库（External Libraries）更多信息创建端云一体化开发工程 更新时间: 2024-03-30 10:25 毫无帮助帮助不大一般很好非常好
+分享
+ 云开发工程模板DevEco Studio目前提供了两种云开发工程模板：通用云开发模板和商城模板。您可根据工程向导轻松创建端云一体化开发工程，并自动生成对应的代码和资源模板。在创建端云一体化开发工程前，请提前了解云开发工程模板的相关信息。 模板类型  通用云开发模板（Empty Ability with CloudDev）  商城模板（Shopping Mall）   模板说明  DevEco Studio内预置的端云一体化开发模板，是支持认证服务、云函数、云存储服务的示例工程。  模板市场（Template Market）提供的商城模板，是基于认证服务、云函数、云存储能力搭建的商城应用示例。   支持的DevEco Studio版本  DevEco Studio 3.1 Beta1版本及以上（DevEco Studio 3.1 Beta2版本不支持云开发，请勿使用）  DevEco Studio 3.1 Release版本及以上   支持的API版本  9 
+说明
+您还可通过开源渠道获取基于API 6的通用云开发模板，具体请参见基于API6的端侧工程Demo。 
+  9   支持的应用类型  HarmonyOS应用元服务  HarmonyOS应用   备注  /  点击下载可获取商城模板示例代码。     需要注意的是，在您体验使用云开发模板创建的应用前，需前往AGC控制台启用手机号码认证并使用手机号码登录应用。    新建HarmonyOS应用工程 前提条件您已使用已实名认证的华为开发者帐号登录DevEco Studio。请确保您的华为开发者帐号余额充足，账户欠费将导致云存储服务开通失败。  选择云开发模板选择以下任一种方式，打开工程创建向导界面。如果当前未打开任何工程，可以在DevEco Studio的欢迎页点击“Create Project”开始创建一个新工程。如果已经打开了工程，可以在菜单栏选择“File > New > Create Project”来创建一个新工程。 在“Application”页签，选择需要的云开发模板（下文以商城模板为例），然后点击“Next”。
+说明
+使用商城模板，请先点击“Template Market”进入模板市场进行下载，下载成功后即可在“Application”页签选择到该模板。 
+     配置工程信息在工程配置界面，配置工程的基本信息。 参数  说明    Project name  工程的名称，由大小写字母、数字和下划线组成。   Bundle name  软件包名称，需保证唯一。包名需遵循如下规则： 以字母、数字、下划线和符号“.”组成。以字母开头。最小长度7个字节，最大长度127个字节。   Save location  工程文件本地存储路径，由大小写字母、数字和下划线等组成，不能包含中文字符。   Compile SDK  应用的目标API Version，在编译构建时，DevEco Studio会根据指定的Compile API版本进行编译打包。 
+注意
+使用云开发模板，Compile SDK版本不得低于9。 
+   Model  应用支持的模式。云开发模板仅支持Stage模式。   Language  开发语言。Stage模式仅支持使用ArkTS语言开发。   Compatible SDK  兼容的最低API Version。 
+注意
+使用云开发模板，Compatible SDK版本不得低于9。 
+   Device type  该工程模板支持的设备类型。目前API 9仅支持手机设备。   Enable CloudDev  是否启用云开发。云开发模板默认启用且无法更改。      点击“Next”，开始关联云开发资源。  关联云开发资源为工程关联云开发所需的资源，即在DevEco Studio中选择您的华为开发者帐号加入的开发者团队，将该团队在AGC的同包名应用关联到当前工程。具体操作如下： （可选）如您尚未登录DevEco Studio，点击“Sign in”，在弹出的帐号登录页面，使用已实名认证的华为开发者帐号完成登录。 登录成功后，界面将展示帐号昵称。  点击“Team”下拉框，选择开发团队。
+注意
+团队帐号持有者需为团队完成实名认证。 
+  关联应用。选中团队后，系统根据工程包名在该团队中自动查询AGC上的同包名应用。 如查询到应用，选中该应用，点击“Finish”即可。 如查询到的应用尚未关联任何项目，则无法选中。请先将应用添加到您的项目下。  如果查询到的应用所属项目尚未启用数据处理位置，请点击界面提示内的“AppGallery Connect”设置数据处理位置。
+注意
+由于云开发目前仅支持中国站点，请确保项目启用的数据处理位置包含中国站点。无论项目启用的默认数据处理位置为哪个站点，后续开发的云服务资源都将部署在中国站点。 
+    如在当前团队中未查询到同包名应用，请先确认填写的包名是否有误。如包名有误，点击界面提示中的“go back”返回工程信息配置界面进行修改。如包名无误，则表明当前团队尚未在AGC控制台创建与当前工程包名相同的应用。您可点击界面提示中的“AppGallery Connect”，前往AGC控制台创建同包名应用。  完成以上操作后，DevEco Studio即可获取到同包名应用信息。选中应用后，点击“Finish”。   如您所属的团队尚未签署云开发相关协议，点击协议链接仔细阅读协议内容后，勾选同意协议，点击“Finish”，进入主开发界面。
+说明
+只有帐号持有者和法务角色才有权限签署协议。 
+  在主开发界面，可查看刚刚新建的工程。关于工程的详细目录结构介绍，请参见端云一体化开发工程介绍。     新建元服务工程 前提条件您已使用已实名认证的华为开发者帐号登录DevEco Studio。请确保您的华为开发者帐号余额充足，账户欠费将导致云存储服务开通失败。  选择云开发模板选择以下任一种方式，打开工程创建向导界面。如果当前未打开任何工程，可以在DevEco Studio的欢迎页点击“Create Project”开始创建一个新工程。如果已经打开了工程，可以在菜单栏选择“File > New > Create Project”来创建一个新工程。 点击“Atomic Service”页签，选择预置的通用云开发模板，然后点击“Next”。
+说明
+元服务工程暂不支持选择商城模板。 元服务调试、运行时，在设备桌面上没有应用图标，请使用DevEco Studio的调试和运行功能，来启动元服务。元服务是免安装的，Stage模型中在module.json5文件自动添加“installationFree”字段，取值为“true”；在app.json5文件自动添加“bundleType”字段，取值为 "atomicService"。编译构建APP时，每个HAP大小不能超过10MB。 
+    配置工程信息在工程配置界面，配置工程的基本信息。  参数  说明    Project name  工程的名称，由大小写字母、数字和下划线组成。   Bundle name  软件包名称，需保证唯一。包名需遵循如下规则： 以字母、数字、下划线和符号“.”组成。以字母开头。最小长度7个字节，最大长度127个字节。   Save location  工程文件本地存储路径，由大小写字母、数字和下划线等组成，不能包含中文字符。   Compile SDK  应用的目标API Version，在编译构建时，DevEco Studio会根据指定的Compile API版本进行编译打包。 
+注意
+使用云开发模板，Compile SDK版本不得低于9。 
+   Model  应用支持的模式。云开发模板仅支持Stage模式。   Language  开发语言。Stage模式仅支持使用ArkTS语言开发。   Compatible SDK  兼容的最低API Version。 
+注意
+使用云开发模板，Compatible SDK版本不得低于9。 
+   Device type  该工程模板支持的设备类型。目前API 9仅支持手机设备。   Enable CloudDev  是否启用云开发。云开发模板默认启用且无法更改。      点击“Next”，开始关联云开发资源。  关联云开发资源为工程关联云开发所需的资源，即在DevEco Studio中选择您的华为开发者帐号加入的开发者团队，将该团队在AGC的同包名应用关联到当前工程。具体操作如下： （可选）如您尚未登录DevEco Studio，点击“Sign in”，在弹出的帐号登录页面，使用已实名认证的华为开发者帐号完成登录。 登录成功后，界面将展示帐号昵称。  点击“Team”下拉框，选择开发团队。
+注意
+团队帐号持有者需为团队完成实名认证。 
+  关联应用。选中团队后，系统根据工程包名在该团队中自动查询AGC上的同包名应用。 如查询到应用，选中该应用，点击“Finish”即可。 如查询到的应用尚未关联任何项目，则无法选中。请先将应用添加到您的项目下。  如果查询到的应用所属项目尚未启用数据处理位置，请点击界面提示内的“AppGallery Connect”设置数据处理位置。
+注意
+由于云开发目前仅支持中国站点，请确保项目启用的数据处理位置包含中国站点。无论项目启用的默认数据处理位置为哪个站点，后续开发的云服务资源都将部署在中国站点。 
+    如在当前团队中未查询到同包名应用，请先确认填写的包名是否有误。如包名有误，点击界面提示中的“go back”返回工程信息配置界面进行修改。如包名无误，则表明当前团队尚未在AGC控制台创建与当前工程包名相同的应用。您可点击界面提示中的“AppGallery Connect”，前往AGC控制台创建同包名应用。  完成以上操作后，DevEco Studio即可获取到同包名应用信息。选中应用后，点击“Finish”。   如您所属的团队尚未签署云开发相关协议，点击协议链接仔细阅读协议内容后，勾选同意协议，点击“Finish”，进入主开发界面。
+说明
+只有帐号持有者和法务角色才有权限签署协议。 
+  在主开发界面，可查看刚刚新建的工程。关于工程的详细目录结构介绍，请参见端云一体化开发工程介绍。     工程初始化配置当您成功创建工程并关联云开发资源后，DevEco Studio会为您的工程自动执行一些初始化配置。  自动开通云开发相关服务DevEco Studio为工程关联的项目自动开通云开发相关服务：认证服务、云函数、云数据库、云托管、API网关、云存储。您可在“Notifications”窗口查看服务开通状态。 
+说明
+如服务开通失败，您可随界面引导前往AGC控制台进行手动开通。如云存储服务自动开通与手动开通均失败，可能是账户欠费导致。请您检查账户是否余额不足，补齐欠款后再前往AGC控制台进行手动开通。 
+   端侧工程自动集成AGC SDKDevEco Studio为端侧工程自动集成AGC相关云服务最新版本SDK。 “entry/src/main/resources/rawfile/agconnect-services.json”：AGC SDK配置文件，内含client_secret和api_key，请妥善保管。  “entry/oh-package.json5”：自动引入了AGC相关云服务（认证服务、云函数、云存储）最新版本SDK，同时会自动集成端云一体化登录组件的最新SDK。工程同步成功后可以看到当前从ohpm仓获取的最新版本。    云侧工程自动集成云数据库SDKDevEco Studio为云侧工程自动集成云数据库最新版本Node.js Server SDK。  “cloudfunctions/函数目录名 （如下图idgenerator）/package.json”：自动引入云数据库最新版本的Node.js Server SDK。  端云一体化开发工程介绍端云一体化开发工程目录分为三个子工程：端开发工程（Application）、云开发工程（CloudProgram）、端侧公共库（External Libraries）。   端开发工程（Application）端开发工程主要用于开发应用端侧的业务代码，端开发工程目录结构请参见工程介绍。 
+注意
+使用DevEco Studio 3.1 Beta1创建的工程采用的是npm包管理，而使用DevEco Studio 3.1 Release新建工程将使用ohpm作为默认包管理器。因此，在您升级到DevEco Studio 3.1 Release版本后，打开历史工程可能会出现兼容性问题，您需参考历史工程适配OHPM包管理进行工程迁移。 
+   云开发工程（CloudProgram）在云开发工程中，您可为您的应用开发云函数和云数据库服务资源。云开发工程目录结构如下图所示：  clouddb：云数据库工程目录。dataentry：用于存放数据条目文件。
+说明
+使用通用云开发模板创建的工程会默认生成post_data数据条目文件，使用商城模板创建的云开发工程则会默认生成sku（商品基本属性）、spu（商品扩展属性）以及spu_attr（商品规格属性）数据条目文件。您可按需修改。 
+ objecttype：用于存放对象类型文件。
+说明
+使用通用云开发模板创建的工程会默认生成post对象类型文件，使用商城模板创建的云开发工程会默认生成order（订单）、shopcart（购物车）等多个对象类型文件。您可按需修改。 
+ db-config.json：模块配置文件，主要包含云数据库工程的配置信息，如默认存储区名称、默认数据处理位置。 cloudfunctions：云函数工程目录。
+说明
+使用通用云开发模板创建的工程默认自动创建一个示例函数“idgenerator”，使用商城模板创建的云开发工程会默认生成mall-address（地址）、mall-commodity（商品）等多个函数。您可按需修改。 
+  node_modules：包含了所有第三方依赖。cloud-config.json：云开发工程配置文件，包含应用名称与ID、项目名称与ID、启用的数据处理位置、支持的设备类型等。package.json：定义了TypeScript公共依赖。package-lock.json：记录当前状态下实际安装的各个npm package的具体来源和版本号。  端侧公共库（External Libraries）端侧公共库中包含了JDK的扩展类库。     更多信息如您在工程编译过程中遇到问题，请参考编译构建FAQ解决。   上一篇 简介 下一篇 开发云工程 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。部署云工程 更新时间: 2024-03-30 10:25 毫无帮助帮助不大一般很好非常好
+分享
+ 您也可选择在云函数和云数据库全部开发完成后，将整个云工程资源统一部署到AGC控制台。 右击云开发工程（“CloudProgram”），选择“Deploy Cloud Program”。  您可在底部状态栏右侧查看云工程打包与部署进度。请您耐心等待，直至出现“Deploy successfully”消息，表示云工程已成功部署。    登录AppGallery Connect，分别进入当前项目的云函数与云数据库服务菜单，可查看到您刚刚部署的云函数与云数据库资源。  上一篇 开发云数据库 下一篇 端云一体化组件 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。开发云工程 更新时间: 2024-03-30 10:25 毫无帮助帮助不大一般很好非常好
+分享
+    开发云函数  开发云数据库   上一篇 创建端云一体化开发工程 下一篇 开发云函数 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。前提条件集成登录组件（可选）自定义登录组件的布局登录组件 更新时间: 2024-03-30 10:25 毫无帮助帮助不大一般很好非常好
+分享
+ 您可使用端云一体化登录组件向应用用户提供登录和登出功能，目前支持帐号密码登录、手机验证码登录、以及邮箱验证码登录。 组件基于ArkUI开发，提供登录对话框页面。当前仅支持基于ArkUI开发，您可在项目中通过ohpm包依赖方式引入。  前提条件您的项目使用ArkTS开发。您已在AGC控制台创建项目。您已为项目开通认证服务并启用相应的认证方式。手机验证码登录需启用“手机号码”认证方式，邮箱验证码登录或帐号密码登录需启用“邮箱地址”认证方式。  集成登录组件通过ohpm包依赖方式引入组件，在“entry/oh-package.json5”文件中新增依赖：已复制"@ohos/agconnect-auth-component": "^1.0.5"  引入组件所需的方法。已复制import {Login, AuthMode} from "@ohos/agconnect-auth-component"; 在代码中集成组件。已复制Column() {        Login({          modes: [AuthMode.PASSWORD, AuthMode.PHONE_VERIFY_CODE, AuthMode.MAIL_VERIFY_CODE],          onSuccess: (user) => {            AlertDialog.show({              title: 'authInfo',              message: JSON.stringify(user)            })          }        }){          Text('Login').decoration({ type: TextDecorationType.Underline });        }} 需传入需要开启的认证方式。 参数  类型  说明    modes  AuthMode  需要开启的认证类型。当前支持手机验证码登录（PHONE_VERIFY_CODE）、邮箱验证码登录（MAIL_VERIFY_CODE）和帐号密码登录（PASSWORD）。   onSuccess  Function  登录/注册成功后的回调函数，回调参数：userInfo（用户信息）   onError  Function  登录/注册失败后的回调函数，回调参数：error（错误信息）     可自定义组件样式为文字、按钮或图标等，点击后弹出登录弹框。例如：文字样式：已复制Text('Login').decoration({ type: TextDecorationType.Underline }); 按钮样式：已复制Button('Login').fontColor(Color.White);     （可选）自定义登录组件的布局如您希望自定义登录组件的内部布局，可按如下步骤集成登录组件： 将引入的登录组件ets目录（“entry/oh_modules/@ohos/agconnect-auth-component/src/main/ets”）拖动到主工程的ets目录（“entry/src/main/ets”）下。 在弹出的确认框中，确认移动的目标目录无误后，点击“Refactor”。 目录移动成功，如下图所示。  将登录组件的字符串资源代码拷贝至主工程的字符串资源目录文件下。将“entry/oh_modules/@ohos/agconnect-auth-component/src/main/resources/en/element/string.json”文件内容拷贝至“entry/src/main/resources/en_US/element/string.json”文件内。将“entry/oh_modules/@ohos/agconnect-auth-component/src/main/resources/zh/element/string.json”文件内容拷贝至“entry/src/main/resources/zh_CN/element/string.json”文件内。  进入“entry/src/main/ets/ets/components/Login”目录，分别在登录组件各个页面的build()方法中修改页面布局。EmailDialog.ets：邮箱验证码登录页面 LoginDialog.ets：登录对话框页面，提供多种登录方式 PasswordDialog.ets：帐号密码登录页面 PhoneDialog.ets：手机验证码登录页面 RegisterDialog.ets：注册页面  引入您刚刚自定义的登录组件。已复制import {Login} from <Login.ets相对路径>import {AuthMode} from <AuthModeEnum.ts相对路径> 例如，若在“Auth.ets”中引入，代码如下图所示。     上一篇 概述 下一篇 AGC应用管理 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。云开发特性开发流程简介 更新时间: 2024-03-30 10:25 毫无帮助帮助不大一般很好非常好
+分享
+ 为丰富HarmonyOS对云端开发的支持、实现端云联动，DevEco Studio推出了云开发功能，开发者在创建工程时选择云开发模板，即可在DevEco Studio内同时完成HarmonyOS应用/元服务的端侧与云侧开发，体验端云一体化协同开发。 
+注意
+使用云开发功能，需同时满足如下条件：Compile SDK版本≥9。完成华为开发者帐号实名认证。签署云开发相关协议。使用DevEco Studio 3.1 Beta1及以上版本。需要特别注意的是，DevEco Studio 3.1 Beta2暂不支持端云一体化开发，请勿使用。前往HUAWEI DevEco Studio产品页可获取最新版本，前往DevEco Studio版本存档可获取历史版本。   
+ 相比于传统开发模式，云开发模式具备成本低、效率高、门槛低等优势，具体区别见下表。 区别点  传统开发模式  云开发模式    开发工具  端侧与云侧各需一套开发工具，云侧需自建服务器，工具成本高。  DevEco Studio一套开发工具即可支撑端侧与云侧同时开发，无需搭建服务器，工具成本低。   开发人员  端侧与云侧要求不同的开发语言，技能要求高。需多人投入，且开发人员之间需持续、准确沟通，人力与沟通成本高、效率低。  依托AppGallery Connect（以下简称AGC）Serverless云服务开放的接口，端侧开发人员也能轻松开发云侧代码，大大降低开发门槛。开发人员数量少，降低人力成本，提高沟通效率。   运维  需自行构建运营与运维能力，成本高、负担重。  直接接入AGC Serverless云服务，实现免运维，无运维成本或资源浪费。     云开发特性云开发特性主要包含了如下功能。 主要功能  描述    端云一体化开发  您可以在DevEco Studio中同时开发与调试应用的端侧代码与云侧代码。 端开发主要是开发、调试应用端侧的业务代码。云开发即为应用开发云侧工程，目前包含云函数与云数据库工程。云函数：支持在DevEco Studio中创建函数、编写函数代码、调试函数、部署函数到AGC云端。云数据库：支持在DevEco Studio中创建对象类型、在对象类型中添加数据条目、部署云数据库到AGC云端。    一键部署云工程  云工程开发完毕后，您可在DevEco Studio中将其一键部署至AGC云端。   端云一体化组件  DevEco Studio还为您提供多种端云一体化组件。集成端云一体化组件后，您只需进行简单配置即可向应用用户提供登录、支付等多种功能。 当前仅支持端云一体化登录组件，用于向应用用户提供登录、登出功能，目前支持帐号密码登录、手机验证码登录、以及邮箱验证码登录。      开发流程HarmonyOS应用端云一体化开发流程如下图所示。   序号  阶段  任务  说明    1  创建端云一体化开发工程  选择云开发模板  HarmonyOS应用工程：支持选择通用云开发模板或商城模板。元服务工程：仅支持选择通用云开发模板。   配置工程信息  配置工程名称、类型等基本信息。   关联云开发资源  在进行云开发之前，您需为工程关联所需的资源：在DevEco Studio中选择您的华为开发者帐号加入的开发者团队，将该团队在AGC的同包名应用关联到当前工程。 上述云开发资源关联成功、工程创建完毕后，DevEco Studio会为您的工程自动执行一些初始化配置： 为工程关联的AGC项目自动开通云开发相关的Serverless服务（认证服务、云函数、云数据库、云托管、API网关、云存储）。为端侧工程自动集成agconnect-services.json配置文件以及相关Serverless服务最新版本的HarmonyOS SDK，同时会自动集成端云一体化登录组件的最新SDK。云侧工程云函数节点下会自动引入依赖的云数据库的最新版本Node.js Server SDK，以实现在端侧访问云数据库。   2  端云一体化开发与调试  端侧开发与调试  端侧代码开发：在端侧工程下，开发、调试应用端侧业务代码。端云一体化组件开发：DevEco Studio还为您提供多种端云一体化组件。集成端云一体化组件后，您只需进行简单配置即可向应用用户提供登录、支付等功能（当前仅支持端云一体化登录组件）。   云侧开发与调试  在云侧工程下开发、调试与部署云服务： 开发云函数，包括创建函数、调试函数、将函数部署到AGC云端。开发云数据库，包括创建对象类型、在对象类型中添加数据条目、部署云数据库。   3   端侧发布与云侧部署   打包并发布应用   将端侧工程进行打包，生成APP，后续即可在AGC进行应用上架。   一键部署云工程  云工程开发完毕后，您可在DevEco Studio中将其一键部署至AGC云端。       上一篇 端云一体化开发 下一篇 创建端云一体化开发工程 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。端云一体化开发 更新时间: 2024-03-30 10:25 毫无帮助帮助不大一般很好非常好
+分享
+    简介  创建端云一体化开发工程  开发云工程  部署云工程  端云一体化组件  AGC应用管理  优秀案例   上一篇 低代码多语言支持及屏幕适配 下一篇 简介 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。区块导出区块导入区块页面导出页面导入页面区块与页面 更新时间: 2024-03-30 10:25 毫无帮助帮助不大一般很好非常好
+分享
+ 区块区块是可重复使用的小模块，分为官方区块与自定义区块两种： 官方区块：由华为方提供，可在开发过程中直接使用。自定义区块：将多个组件根据业务逻辑组合后形成区块，然后在不同项目应用中复用。 区块的创建请参见创建区块。  导出区块
+说明
+只有自定义的区块支持导出。 
+ 登录AppGallery Connect，点击“全部服务 > 开发构建 > Serverless > DevEco低代码”。在项目列表中选择要操作的项目，进入低代码平台页面。选择低代码平台 > 区块与页面，选择区块页签。导出区块。点击待导出区块所在行的导出区块文件，在弹出框点击确认。 勾选需要导出的区块，点击批量导出区块，在弹出框点击确认。    导入区块登录AppGallery Connect，点击“全部服务 > 开发构建 > Serverless > DevEco低代码”。在项目列表中选择要操作的项目，进入低代码平台页面。选择低代码平台 > 区块与页面，点击导入区块。 在弹出框中导入区块模板包，点击确定。    页面基于某些业务场景，我们可以将单个页面抽象为可复用的页面模板，应用到不同的项目中。 登录AppGallery Connect，点击“全部服务 > 开发构建 > Serverless > DevEco低代码”。在项目列表中选择要操作的项目，进入低代码平台页面。选择应用管理，进入应用管理页面，点击待编辑应用卡片的编辑应用，进入开发界面。点击待转换为模板页面的，在下拉框中选择保存为模板， 填写信息后，点击确定。 转换成功后，点击新建页面，则可以在自定义模板处查看到此模板。   导出页面
+说明
+只有自定义的页面模板支持导出。 
+ 登录AppGallery Connect，点击“全部服务 > 开发构建 > Serverless > DevEco低代码”。在项目列表中选择要操作的项目，进入低代码平台页面。选择低代码平台 > 区块与页面，选择页面页签。导出页面。点击待导出页面所在行的导出页面文件，在弹出框点击确认。 勾选需要导出的区块，点击批量导出页面，在弹出框点击确认。    导入页面登录AppGallery Connect，点击“全部服务 > 开发构建 > Serverless > DevEco低代码”。在项目列表中选择要操作的项目，进入低代码平台页面。选择低代码平台 > 区块与页面，选择页面页签。点击导入页面。 在弹出框中导入页面模板包，点击确定。    上一篇 模板中心 下一篇 用户权限 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。新建自定义连接器配置自定义连接器（可选）设置鉴权新建HTTP类型（可选）开发云函数新建云函数类型测试方法新建支付连接器配置支付连接器新建连接器 更新时间: 2024-03-30 10:25 毫无帮助帮助不大一般很好非常好
+分享
+ 低代码平台支持两类连接器： 自定义连接器：支持调用第三方服务接口或使用代码来实现业务逻辑。支付连接器：用于实现支付能力。 新建自定义连接器
+说明
+一个项目下，最多创建200个自定义连接器。 
+ 登录AppGallery Connect，点击“全部服务 > 开发构建 > Serverless > DevEco低代码”。在项目列表中选择要操作的项目，进入低代码平台页面。选择低代码平台 > 连接器，来源选择“自定义连接器”，点击新建连接器。 在弹出的创建自定义连接器框中，填写相关信息。 参数名称  说明    标题  连接器名称（1~128个字符）。   名称  连接器英文名称（可输入1~58个字符，加上随机后缀共64位），由字母、数字和下划线组成。名称为连接器唯一标识，在调用连接器方法中均需要借助这个标识来使用。 
+说明
+名称右侧的字符（如上面截图中的_6akwm）由系统随机生成，以确保数据标识的唯一性。 
+   描述  连接器描述信息（1~255个字符）。     填写信息完成，点击开始创建，连接器创建完成。创建完成，即可继续配置自定义连接器。   配置自定义连接器连接器是通过调用连接器中的API方法使用的，目前支持HTTP类型和云函数类型的API方法。 HTTP类型：通过简单的配置HTTP请求地址 、方法 、入参等参数，就可以对接第三方接口。云函数类型：基于云函数服务的能力开发的云函数。 
+说明
+每个连接器最多添加30个API方法。如果方法需要鉴权，需要提前设置鉴权。 
+  （可选）设置鉴权如果您配置的方法不需要设置鉴权，可跳过此步骤。 登录AppGallery Connect，点击“全部服务 > 开发构建 > Serverless > DevEco低代码”。在项目列表中选择要操作的项目，进入低代码平台页面。选择低代码平台 > 连接器。在连接器页面，点击需要编辑连接器操作列的编辑，进入连接器详情页。点击连接器详情页的鉴权设置页签，点击页面右侧的编辑，进入鉴权编辑页面。鉴权协议选择Oauth 2.0。 协议选择后，填写鉴权信息。
+说明
+如果您的Oauth信息是非标准的，您可以在高级设置中进行鉴权信息和Token信息的映射。 
+  参数名称  参数说明    鉴权协议  目前仅支持Oauth 2.0。   授权模式  目前仅支持选择Client Credentials模式。   Token URL  填写鉴权的URL地址。   Client ID  在AppGallery Connect首页，点击“我的项目”。点击需要配置的项目，进入“项目设置”在页面获取“OAuth 2.0客户端ID（凭据）”下的Client ID。   Client Secret  在AppGallery Connect首页，点击“我的项目”。点击需要配置的项目，进入“项目设置”在页面获取“OAuth 2.0客户端ID（凭据）”下的Client Secret。   授权范围  允许的操作列表。   Token过期时间（秒）  Token的有效期。默认为experies_in字段值。   请求方法  请求方法： GetPost   鉴权信息位置  鉴权信息的位置： PathHeadersbody   鉴权信息映射  授权模式  授权模式的映射字段，根据需求设置成您服务的授权模式，默认为grant_type。   Client Credentials  鉴权模式的映射字段，根据需求设置成您服务的模式，默认为client_credentials。   Client ID  Client ID的映射字段，根据需求设置成您服务的Client ID，默认为client_id。   Client Secret  Client Secret的映射字段，根据需求设置成您服务的Client Secret，默认为client_secert。   Access token  Access_token的映射字段，根据需求设置成您服务的Access token，默认为access_token。   Token过期时间  Token的映射字段，请根据需求设置成您服务的Token字段，默认为experies_in。   请求时Token位置  Token信息的位置： PathHeadersbody   请求时Token映射  Access token  请求中Token的映射字段，根据需求设置成您服务的Access token，默认access_token。     鉴权信息填写完成，点击保存。点击页面右上角的保存，在弹出的提示框中点击确认，鉴权信息设置成功。  新建HTTP类型在连接器页面，点击需要添加API方法的连接器操作列的编辑，进入连接器详情页。在连接器详情页的基本设置页签的连接器方法区域，点击立即新建。 在连接器方法区域，配置方法信息。
+说明
+如需要添加多个方法，点击添加方法即可。 
+  参数名称  说明    标题  方法标题。   名称  方法名称。调用方法时，在参数methodId中传入此字段。   描述  描述此方法的功能等信息。   类型  选择“HTTP请求”。   URL  第三方服务接口的URL地址，以http或https开头。   Method  Get：获取数据，在查询数据的场景中选择此方法。Post：新增数据，在新增数据的场景中选择此方法。Put：更新数据，在更新数据的场景中选择此方法。Delete：删除数据，在需要删除数据的场景中选择此方法。   用户免登录  控制访问该方法和相关数据的权限。此开关默认关闭。 关闭：需要用户登录才可访问该方法和相关数据。打开：用户无需登录即可访问该方法和相关数据。   入参  非必填，点击“添加入参”，用于描述函数Params的结构，若函数无参数，则不填写。 
+说明
+若函数有参数，则参数必须为对象，入参中描述字段结构应与函数实际使用的Params结构一致，否则后续使用时可能会出错。 
+   HTTP配置  非必填，配置HTTP请求底层的请求参数，可配置URL、Query和Headers的value、Body参数。 
+说明
+如果调用接口需要进行Cookie的验证，可以将从登录接口获取的Session ID或者Cookie的信息配置在Headers中，从而实现Http会话保持机制。 仅请求方法Method为Post、Put和Delete时可配置Body参数。Body中填写的内容会作为一个完整的字符串模板进行处理，应保证模板处理后的结果符合Body类型（JSON/FORM）的要求，否则请求会失败。 
+   测试  方法配置完成，点击“方法测试”，在“提交参数”文本框中填写测试使用的入参，点击“运行测试”, 在测试输出的结果中可以看到方法运行的日志信息。 测试成功后，点击“出参映射”即可。   出参  必填，函数的返回结果。点击“添加出参”，配置调用此方法时返回的信息。 
+说明
+可点击“方法测试”运行成功后，点击“出参映射”，系统会自动填充出参信息。 
+     配置信息填写完成后，点击页面右上角的保存，添加方法成功。  （可选）开发云函数如果您需要新建云函数类型的方法，需要先创建云函数，请按照以下步骤进行操作。 登录AppGallery Connect，点击我的项目，选择您的项目。选择Serverless > 。左侧导航栏选择函数，点击创建函数。 在函数页面，配置函数名称、触发方式等信息，点击保存，完成函数定义。 配置项  配置项说明    函数名称  名称不少于2位且不超过63位，支持小写字母、数字和中划线(-)，以小写字母开头，小写字母和数字结尾。   描述  非必填，函数的描述信息。   触发方式  选择“事件调用”。   内存  非必填，函数容器所占有的内存大小，单位为MB，可配置为500、1000、2000或4000。   运行环境  函数容器的运行环境。   代码输入类型  选择“*.zip”或在线编辑。   函数入口  包括入口文件名称和入口方法名称，通过“.”连接。 例如handler.myHandler，其中handler为入口文件名称，myHandler为入口方法名称。 
+说明
+nodejs14.x和python3运行环境下入口文件必须放置在函数部署包的根目录下。java1.8运行环境下函数入口支持包名.入口类::入口方法和包名.入口类两种格式，例如faas.HelloPojo::handleRequest，其中faas为包名，HelloPojo为入口类名，handleRequest为入口方法名。custom-runtime运行环境下函数入口默认为"/invoke"，且不支持修改。 
+   代码文件  用于在线编辑函数代码或上传函数部署包。 
+说明
+“代码输入类型”配置项选择“在线编辑”时，您可在创建函数界面集成的WebIDE区域在线编辑函数代码。“代码输入类型”配置项选择“*.zip文件”时，点击“选择文件”即可上传函数部署包 
+     函数创建完成，进入函数概览界面，选择触发器，点击+添加触发器。 触发器按照如下界面进行配置，完成后点击添加。 配置项  配置项说明    触发器类型  选择“HTTP”。   请求方式  选择“POST”。   认证类型  选择“API客户端鉴权（Server适用）”，表示在云侧网关认证。   启用decode  通过HTTP触发器触发函数时，对于contentType为“application/x-www-form-urlencoded”的触发请求，是否使用URLDecoder对请求body进行解码再转发到函数中。     函数配置完成，点击保存。 在函数列表页面，会展示出您刚才创建的函数。 如果您想要发布多个版本的云函数，可参考云函数-版本管理。  新建云函数类型在连接器页面，点击需要添加API方法的连接器操作列的编辑，进入连接器详情页。在连接器方法区域，点击立即新建。 参数名称  说明    标题  方法标题，如查询成绩。   名称  方法名称。在方法调用时会用到此字段。   描述  描述此方法的功能等信息。   类型  选择“云函数”，如果您还未创建云函数，点击“管理云函数”，系统跳转到云函数界面。新建云函数，可参考开发云函数。 
+说明
+支持绑定同一项目下的Serverless云函数。列表展示项目下云函数的触发方式为事件调用，并且云函数触发器类型为HTTP、认证类型为API客户端鉴权（Server适用）。 
+   云函数  云函数名称列表展示的是在云函数的函数名称，版本列表展示的云函数的版本号。   用户免登录  用户登录权限的开关。 此选项默认关闭，需要用户登录才可访问该方法和相关数据。打开此选项时，用户无需登录即可访问该方法和相关数据。   入参  非必填，点击“添加入参”，用于描述函数Params的结构，若函数无参数，则不填写。 
+说明
+若函数有参数，则参数必须为对象，入参中描述字段结构应与函数实际使用的Params结构一致，否则后续使用时可能会出错。 
+   测试方法  方法配置好后, 点击“方法测试”， 在“提交参数”文本框中填写测试使用的入参, 点击“运行测试”, 在测试输出的结果中可以看到方法运行的日志信息。 测试通过后, 点击“出参映射”即可。 
+说明
+测试方法无法模拟所有的场景，仅供参考。 
+   出参  必填，代码返回的结果。点击“添加出参”。调用此URL时传入的参数对应的返回信息。 
+说明
+点击“方法测试”，运行成功后，点击“出参映射”，可自动填充出参。 
+      配置信息填写完成后，点击页面右上角的保存，添加方法成功。  测试方法方法配置完成后，点击方法测试。在右侧方法测试界面的提交参数中填写方法所需的入参，点击运行测试。 在测试结果区域查看方法运行的结果、日志。 测试成功后，点击出参映射，即可自动完成出参信息的配置。   新建支付连接器登录AppGallery Connect，点击“全部服务 > 开发构建 > Serverless > DevEco低代码”。在项目列表中选择要操作的项目，进入低代码平台页面。选择低代码平台 > 连接器，来源选择“支付连接器”点击新建连接器。 在弹出的创建支付连接器框中，填写相关信息。 参数名称  说明    标题  连接器名称（1~128个字符）。   名称  连接器英文名称（可输入1~58个字符，加上随机后缀共64位），由字母、数字和下划线组成。名称为连接器唯一标识，在调用连接器方法中均需要借助这个标识来使用。 
+说明
+名称右侧的字符（如上面截图中的_wl3f2）由系统随机生成，以确保数据标识的唯一性。 
+   描述  连接器描述信息（1~255个字符）。     填写信息完成，点击开始创建，创建连接器。创建完成，系统将自动创建“订单”和“退款订单”两个数据模型，可继续配置支付连接器。 订单数据模型 字段标题  字段名称  类型  是否必选  描述    商户订单号（主键）  id  文本  是  商户订单号，由商户自己生成，需要确保订单号的唯一性。长度限制为46个字符。   订单状态  orderStatus  文本  是  订单状态，默认为TRX_APPLY。需要配置索引。 TRX_APPLY：待处理TRX_PROC：交易处理中TRX_SUCCESS：交易成功TRX_FAILED：交易失败 其他状态可根据业务需要添加自定义。   商品名称  tradeSummary  文本  是  商品名称。由业务方维护。   商品总价  totalAmount  文本  是  商品总金额，单位：分，由业务方维护。   业务类型  bizType  文本  是  业务类型。由业务方维护。 100001：虚拟商品购买100002：实物商品购买100003：预付类账号充值100004：航旅交通服务100005：活动票务订购100006：商业服务消费100007：生活服务消费100008：租金缴纳100009：会员费缴纳100011：其他商家消费100037：公共便民服务   商品数量  quantity  文本  是  商品数量。由业务方维护。   商品单价  unitPrice  文本  是  商品单价。由业务方维护。   商品简介  goodsName  文本  是  商品简介。由业务方维护。   华为支付系统订单号  sysTransOrderNo  文本  否  华为支付系统订单号。交易完成后，系统刷新此字段信息。   商户号  mercNo  文本  否  商户号。交易预下单成功，系统自动刷新此字段信息。   支付过期时间  expireTime  文本  否  交易过期时间。由业务方维护。   币种信息  currency  文本  否  币种信息，默认为CNY。由业务方维护。   支付完成时间  finishTime  文本  否  订单支付完成时间。交易完成后，系统刷新此字段信息。   预支付ID  prepayId  文本  否  预下单ID。交易预下单成功，系统自动刷新此字段信息，用于后续支付未完成支付的订单。     退款订单数据模型 字段标题  字段名称  类型  是否必选  描述    商户退款订单号  id  文本  是  商户退款订单号，由商户自己生成，需要确保订单号的唯一性。长度限制为46个字符。   商户订单号  mercOrderNo  文本  是  商户订单号，由商户自己生成，需要确保订单号的唯一性。长度限制为46个字符。   退款订单状态  refundOrderStatus  文本  是  退款订单状态，默认为REFUND_APPLY。需要配置索引。退款完成，系统自动刷新此字段信息。 REFUND_APPLY：待处理REFUND_PROC：处理中REFUND_SUCCESS：成功REFUND_FAILED：失败   商户号  mercNo  文本  否  商户号。退款完成，系统自动刷新此字段信息。   华为支付系统退款订单号  sysRefundOrderNo  文本  否  华为支付系统订单号。退款完成，系统自动刷新此字段信息。   退款完成时间  finishTime  文本  否  退款完成时间，必须为UTC时间格式。退款完成，系统自动刷新此字段信息。   退款金额  refundAmount  文本  否  退款金额，单位：分。由业务方维护。   币种信息  currency  文本  否  币种信息，默认为CNY。由业务方维护。       配置支付连接器点击待配置连接器所在行的编辑， 选择支付配置页签，点击编辑，配置华为支付相关参数。 填写相关信息后，点击保存。 商户ID、商户认证ID、密钥和公钥：请参考证书准备生成和获取相关信息。回调地址：用于接收支付成功和退款成功的回调信息。创建连接器时，系统自动生成了回调地址，如果您有自己的服务器，可以更新为接收回调的URL地址。订单模型ID和退款订单模型ID：如果需要更新订单信息，则会使用到此信息。调试时，将使用草稿态的模型；发布时，将使用发布态的模型。创建支付连接器后，系统将创建的订单数据模型和退款订单数据模型的草稿态ID自动填充到此处。当发布支付连接器后，系统将单数据模型和退款订单数据模型的发布态ID自动填充到此处。    上一篇 连接器 下一篇 维护连接器 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。修改自定义连接器发布自定义连接器修改支付连接器导出自定义连接器前提条件导出连接器导入自定义连接器前提条件导入连接器删除自定义连接器删除支付连接器维护连接器 更新时间: 2024-03-30 10:25 毫无帮助帮助不大一般很好非常好
+分享
+ 修改自定义连接器在修改连接器时，您可以新建、修改和删除自定义连接器的基本信息或API方法，也可以设置鉴权信息。 登录AppGallery Connect，点击“全部服务 > 开发构建 > Serverless > DevEco低代码”。在项目列表中选择要操作的项目，进入低代码平台页面。选择低代码平台 > 连接器，来源选择“自定义连接器”。在连接器页面，点击需要编辑连接器操作列的编辑（或点击连接器名称进入详情页，点击详情页的编辑），进入连接器详情页。修改基本设置页签的基本信息。 参数名称  参数说明    连接器ID（草稿态）  未发布时连接器ID，不可编辑。   连接器ID（发布态）  发布后连接器ID，不可编辑。如果还未发布，显示为--。   标题  连接器名称。   名称  连接器标识，不可编辑。   上次发布时间  不可编辑。 如果连接器已发布过，显示最近一次的发布时间，格式为YYYY-MM-DD hh:mm:ss。如果连接器从未发布过，显示为--。   描述  连接器描述信息（1~255字符）。   创建时间  连接器的创建时间，不可编辑。     修改基本设置页签的“连接器方法”，详细配置说明参见配置方法信息。修改鉴权设置，详细配置说明参见填写鉴权信息。 点击页面右上角的保存，在弹出的提示框中点击确认，修改自定义连接器成功。
+说明
+编辑后需要重新发布自定义连接器，数据才会同步至生产环境。 
+   发布自定义连接器
+说明
+发布成功后，发布状态更新为“已发布”，发布时间更新为发布时的系统时间，操作列的“发布”置灰。 
+ 发布连接器才可将此连接器应用至生产环境。发布连接器有两种方式： 方式一：登录AppGallery Connect，点击“全部服务 > 开发构建 > Serverless > DevEco低代码”。在项目列表中选择要操作的项目，进入低代码平台页面。选择低代码平台 > 连接器。在连接器页面，点击需要发布连接器操作列的发布。 在弹出的提示框中点击确认，自定义连接器发布成功。 方式二：登录AppGallery Connect，点击“全部服务 > 开发构建 > Serverless > DevEco低代码”。在项目列表中选择要操作的项目，进入低代码平台页面。选择低代码平台 > 连接器。在连接器页面，点击需要发布连接器的标题，进入连接器详情页。 点击立即发布，在弹出的提示框中点击确认，自定义连接器发布成功。    修改支付连接器登录AppGallery Connect，点击“全部服务 > 开发构建 > Serverless > DevEco低代码”。在项目列表中选择要操作的项目，进入低代码平台页面。选择低代码平台 > 连接器，来源选择“支付连接器”。在连接器页面，点击需要编辑连接器操作列的编辑（或点击连接器名称进入详情页，点击详情页的编辑），进入连接器详情页。修改基本设置页签的基本信息。  参数名称  参数说明    连接器ID（草稿态）  未发布时连接器ID，不可编辑。   连接器ID（发布态）  发布后连接器ID，不可编辑。如果还未发布，显示为--。   标题  连接器名称。   名称  连接器标识，不可编辑。   上次发布时间  不可编辑。 如果连接器已发布过，显示最近一次的发布时间，格式为YYYY-MM-DD hh:mm:ss。如果连接器从未发布过，显示为--。   描述  连接器描述信息（1~255字符）。   创建时间  连接器的创建时间，不可编辑。     修改支付配置页签的支付参数配置，详细参考配置支付连接器。 修改完成点击保存。  导出自定义连接器当您想要创建一个相同配置的连接器，您需要导出连接器。  前提条件已发布连接器。  导出连接器登录AppGallery Connect，点击“全部服务 > 开发构建 > Serverless > DevEco低代码”。在项目列表中选择要操作的项目，进入低代码平台页面。选择低代码平台 > 连接器，来源选择自定义连接器。在连接器列表，点击需要导出连接器操作列的导出。 待文件导出结束后保存文件（文件命名方式为“发布态的连接器ID.json”）。
+说明
+导出的文件中不包含以下信息：鉴权设置中的“Client ID”和“Client Secret”。 
+   导入自定义连接器当您想要创建一个相同配置的连接器，您可以使用连接器的导入功能。  前提条件已导出连接器。  导入连接器
+说明
+当本项目下的连接器个数已达到最大限制200个时，“导入连接器”按钮置灰。 
+ 登录AppGallery Connect，点击“全部服务 > 开发构建 > Serverless > DevEco低代码”。在项目列表中选择要操作的项目，进入低代码平台页面。选择低代码平台 >连接器，来源选择自定义连接器。在连接器列表，点击导入连接器。 在弹出的导入框中，选择本地的连接器文件，导入成功后，连接器的名称被系统重新命名。如果您的连接器的API方法中需要用到鉴权，您需要编辑连接器，重新设置鉴权设置中的“Client ID”和“Client Secret”。  删除自定义连接器登录AppGallery Connect，点击“全部服务 > 开发构建 > Serverless > DevEco低代码”。在项目列表中选择要操作的项目，进入低代码平台页面。选择低代码平台 > 连接器，来源选择自定义连接器。在连接器页面，点击需要删除连接器操作列的删除。 在弹出的提示框中点击确认，自定义连接器删除成功。  删除支付连接器登录AppGallery Connect，点击“全部服务 > 开发构建 > Serverless > DevEco低代码”。在项目列表中选择要操作的项目，进入低代码平台页面。选择低代码平台 > 连接器，来源选择支付连接器。在连接器页面，点击需要删除连接器操作列的删除。 在弹出的提示框中点击确认，自定义连接器删除成功。   上一篇 新建连接器 下一篇 模板中心 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。新建数据模型配置字段配置数据新建数据模型 更新时间: 2024-03-30 10:25 毫无帮助帮助不大一般很好非常好
+分享
+ 新建数据模型登录AppGallery Connect，点击“全部服务 > 开发构建 > Serverless > DevEco低代码”。在项目列表中选择要操作的项目，进入低代码平台页面。选择低代码平台 > 数据模型，点击新建数据模型。在弹出的新建数据模型框中填写信息，并点击主键配置填写主键字段配置项。
+注意
+创建模型时必须指定主键，编辑数据模型时不能新增或删除主键。 
+  参数名称  说明    标题  数据模型名称（1~128个字符）。   名称  数据模型英文标识（1~19个字符），作为数据模型唯一标识，由字母、数字和下划线组成，且只能以字母开头，不可重复。 
+说明
+标识列右侧的数字（如上面截图中的_6zx07）由系统随机生成，以确保数据标识的唯一性。 
+   创建方式  仅支持“空白创建”。   描述  数据模型的描述信息有助于开发者快速了解模型信息，并提高开发者选择数据模型的效率。   字段标题  主键字段的标题。   字段名称  主键字段的名称。   数据类型  仅支持“文本”类型。   最大长度  非必填，主键最大长度，最大长度为200。   最小长度  非必填，主键最小长度，最小长度为0。     信息填写完成后，点击开始创建，创建数据模型完成。数据模型创建后，系统会自动创建5个系统字段，8个数据模型方法。
+说明
+系统字段不可编辑，不可删除。数据模型不支持新增自定义方法。 
+ 系统字段  系统自创模型方法 开发者可以使用模型方法实现自定义的业务逻辑，相关方法处理原则如下： 删除只传入object参数，则针对主键字段构建过滤条件，对过滤结果进行删除。只传入conditions参数，则针对conditions中字段构建过滤条件，对过滤结果进行删除。同时传入object和conditions参数，则以object参数为准，conditions条件不生效。 更新只传入object参数，则针对主键字段构建过滤条件，对过滤结果进行删除。同时传入object和conditions参数，基于object过滤的结果，将conditions作为更新条件进行更新。     配置字段您可通过编辑数据模型添加字段，完善数据模型的配置。 登录AppGallery Connect，点击“全部服务 > 开发构建 > Serverless > DevEco低代码”。在项目列表中选择要操作的项目，进入低代码平台页面。选择低代码平台 > 数据模型，点击需要修改数据模型操作列的编辑，进入数据模型详情页。 在模型配置页签，点击添加字段。 填写字段配置后，点击确定。  参数名称  说明    字段标题  字段名称（1~128个字符）。   字段名称  字段标识，由字母、数字和下划线组成，且只能以字母开头，不能以下划线结尾。   字段描述  字段的相关描述（1~255个字符）。   数据类型  支持12种数据类型： 文本长文本布尔值整数长整数小数日期邮箱电话图片，支持格式有JPG、TIFF、BMP、PNG和GIF。文件，支持的格式有3GP、MP4、WEBM、MKV。关联关系 
+说明
+每个数据模型最多只能有5个加密字段，5个关联字段。“图片”或“文件”类型不可加密。 
+   最大长度  当数据类型为“文本”或“长文本”时显示此字段。表示字段的最大长度。   最小长度  当数据类型为“文本”或“长文本”时显示此字段。表示字段的最小长度。   最大值  当数据类型为“整数”、“长整数”或“小数”时显示此字段。表示字段的最大值。   最小值  当数据类型为“整数”、“长整数”或“小数”时显示此字段。表示字段的最小值。   默认值  当数据类型为“文本”、“长文本”、“布尔值”、“整数”、“长整数”、“小数”、“邮箱”或“电话”时显示此字段且可编辑。表示该字段的默认值。 
+说明
+当数据类型设置为加密字段时，此选项不可编辑。 
+   单张图片最大  仅当数据类型为“图片”时显示此字段，单位为MB（1~10）。   单个文件最大  仅当数据类型为“文件”时显示此字段，单位为MB（1~1024）。   格式  仅当数据类型为“日期”时显示此字段。 选择“日期时间”时，日期的显示格式为 YYYY-MM-DD HH:mm:ss。选择“日期”时，日期的显示格式为 YYYY-MM-DD。   索引  选择“是”，表示此字段为索引字段。选择“否”，表示此字段为非索引字段。
+说明
+每个数据模型的索引字段不超过10个。加密字段不可作为索引。 
+    索引排序  索引字段选择“是”时显示此字段。 选择“升序”，表示数据以升序方式进行排序。选择“降序”，表示数据以降序方式进行排序。   关联模型  仅当数据类型为“关联关系”时显示此字段。 选择需要关联的数据模型。 
+说明
+一个数据模型中不支持多个字段关联相同的数据模型。数据模型之间不允许循环依赖，比如A关联B，B关联C，C不能再关联A。数据模型关联层级不能超过5层。配置关联类型字段的数据模型的权限不能大于关联的数据模型的权限，即数据模型为免登录权限，则关联数据模型权限必须也是免登录，如果设置为登录权限，将导致未登录用户无法访问关联数据模型的数据。 
+   关联类型  分两种类型： 当前数据模型与关联的数据模型是一对一关联。当前数据模型中多个数据关联到同一个关联的数据模型。   删除行为  分两种类型： 可以删除关联的数据模型，但不能删除当前数据模型。当前数据模型和关联数据模型关联后，关联的数据模型也不能删除。   是否必填  当数据类型为“关联关系”时不显示此字段。 选择“是”，表示此字段为必填字段。选择“否”，表示此字段为非必填字段。 
+说明
+添加字段时，此选项若选择“是”，“默认值”选项不可为空。当数据类型为“日期”、“图片”、“邮箱”、“文件”、“电话”时，此选项为“否”且不可编辑。 
+   是否加密  当数据类型为“图片”和“关联关系”时不显示此字段。 选择“是”，表示此字段为加密字段。选择“否”，表示此字段为非加密字段。
+说明
+有加密属性的字段，在管理数据时只支持查询操作，仅客户端用户有新建、修改和删除操作的权限。 
+      字段添加完成后，点击右上角的保存，数据模型配置完成。   配置数据您可通过管理数据添加数据。 登录AppGallery Connect，点击“全部服务 > 开发构建 > Serverless > DevEco低代码”。在项目列表中选择要操作的项目，进入低代码平台页面。选择低代码平台 > 数据模型，点击需要添加数据的数据模型操作列的管理数据。 在管理数据页面，可以点击新建逐条添加数据，也可以点击导入批量导入数据。 数据模型创建后，您还可以设置可使用此数据模型的角色，以便拥有对应角色的用户才可以查看或者维护。具体参见角色与权限。   上一篇 数据模型 下一篇 管理数据 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。

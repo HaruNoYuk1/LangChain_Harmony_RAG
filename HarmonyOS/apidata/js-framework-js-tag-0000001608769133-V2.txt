@@ -1,0 +1,10 @@
+您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。pages示例js标签配置 更新时间: 2024-03-18 17:33 毫无帮助帮助不大一般很好非常好
+分享
+ js标签中包含了实例名称、页面路由信息。 标签  类型  默认值  必填  描述    name  string  default  是  标识JS实例的名字。   pages  Array  -  是  路由信息，详见“pages”。     
+说明
+name、pages标签配置需在配置文件中的“js”标签中完成设置。 
+ pages定义每个页面的路由信息，每个页面由页面路径和页面名组成，页面的文件名就是页面名。比如： 已复制{  ...  "pages": [    "pages/index/index",    "pages/detail/detail"  ]  ...} 
+说明
+应用首页固定为"pages/index/index"。 页面文件名不能使用组件名称，比如：text.hml、button.hml等。  
+  示例已复制{  "app": {    "bundleName": "com.example.player",    "version": {        "code": 1,        "name": "1.0"    },    "vendor": "example"  }  "module": {    ...    "js": [      {        "name": "default",        "pages": [          "pages/index/index",          "pages/detail/detail"        ]      }    ],    "abilities": [      {        ...      }    ]  }}   上一篇 文件组织 下一篇 app.js 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。

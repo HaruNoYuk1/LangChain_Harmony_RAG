@@ -1,0 +1,4 @@
+您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。概述汇总成员变量OH_NativeBuffer_Config 更新时间: 2024-02-07 14:08 毫无帮助帮助不大一般很好非常好
+分享
+ 概述OH_NativeBuffer的属性配置，用于申请新的OH_NativeBuffer实例或查询现有实例的相关属性。 起始版本： 9 相关模块： OH_NativeBuffer  汇总 成员变量  成员变量名称  描述  width  宽度（像素）。   height  高度（像素）。   format  像素格式。   usage  buffer的用途说明。       上一篇 OH_Drawing_BitmapFormat 下一篇 OH_NativeXComponent_Callback 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。

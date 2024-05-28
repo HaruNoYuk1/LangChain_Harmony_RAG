@@ -1,0 +1,8 @@
+您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。导入模块fileUri.getUriFromPath@ohos.file.fileuri (文件URI) 更新时间: 2024-03-18 17:33 毫无帮助帮助不大一般很好非常好
+分享
+ 该模块提供通过PATH获取文件统一资源标志符（Uniform Resource Identifier，URI），后续可通过使用@ohos.file.fs进行相关open、read、write等操作，实现文件分享。 
+说明
+本模块首批接口从API version 9开始支持。后续版本的新增接口，采用上角标单独标记接口的起始版本。 
+ 导入模块已复制import fileuri from "@ohos.file.fileuri"; 使用该功能模块前，需要先获取其应用沙箱路径，开发示例如下： 已复制import UIAbility from '@ohos.app.ability.UIAbility';
+export default class EntryAbility extends UIAbility {    onWindowStageCreate(windowStage) {        let context = this.context;        let pathDir = context.filesDir;    }}  fileUri.getUriFromPathgetUriFromPath(path: string): string 以同步方法获取文件URI。 系统能力：SystemCapability.FileManagement.AppFileService 参数： 参数名  类型  必填  说明    path  string  是  文件的沙箱路径     返回值：  类型  说明  string  返回文件URI     错误码： 以下错误码的详细介绍请参见文件管理错误码。  错误码ID  错误信息  401  The input parameter is invalid     示例： 已复制let filePath = pathDir + "test.txt";let uri = fileuri.getUriFromPath(filePath);   上一篇 文件管理 下一篇 @ohos.file.fs (文件管理) 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。

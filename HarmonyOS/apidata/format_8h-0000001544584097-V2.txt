@@ -1,0 +1,4 @@
+您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。概述汇总类型定义枚举format.h 更新时间: 2024-02-07 14:08 毫无帮助帮助不大一般很好非常好
+分享
+  概述提供张量数据的排列格式。 起始版本： 9 相关模块： MindSpore  汇总 类型定义  类型定义名称 描述 OH_AI_Format MSTensor保存的数据支持的排列格式。     枚举  枚举名称 描述 OH_AI_Format { OH_AI_FORMAT_NCHW = 0, OH_AI_FORMAT_NHWC = 1, OH_AI_FORMAT_NHWC4 = 2, OH_AI_FORMAT_HWKC = 3, OH_AI_FORMAT_HWCK = 4, OH_AI_FORMAT_KCHW = 5, OH_AI_FORMAT_CKHW = 6, OH_AI_FORMAT_KHWC = 7, OH_AI_FORMAT_CHWK = 8, OH_AI_FORMAT_HW = 9, OH_AI_FORMAT_HW4 = 10, OH_AI_FORMAT_NC = 11, OH_AI_FORMAT_NC4 = 12, OH_AI_FORMAT_NC4HW4 = 13, OH_AI_FORMAT_NCDHW = 15, OH_AI_FORMAT_NWC = 16, OH_AI_FORMAT_NCW = 17 }  MSTensor保存的数据支持的排列格式。      上一篇 data_type.h 下一篇 model.h 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。

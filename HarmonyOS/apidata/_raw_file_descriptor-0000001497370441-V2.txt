@@ -1,0 +1,4 @@
+您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。概述汇总成员变量结构体成员变量说明fdlengthstartRawFileDescriptor 更新时间: 2024-02-07 14:08 毫无帮助帮助不大一般很好非常好
+分享
+ 概述提供rawfile文件描述符信息。 RawFileDescriptor是OH_ResourceManager_GetRawFileDescriptor()的输出参数，涵盖了rawfile文件的文件描述符以及在HAP中的起始位置和长度。 起始版本： 8 相关模块： Rawfile  汇总 成员变量  成员变量名称  描述  fd  rawfile文件描述符   start  rawfile在HAP中的起始位置   length  rawfile在HAP中的长度      结构体成员变量说明 fd已复制int RawFileDescriptor::fd 描述： rawfile文件描述符  length已复制long RawFileDescriptor::length 描述： rawfile在HAP中的长度  start已复制long RawFileDescriptor::start 描述： rawfile在HAP中的起始位置   上一篇 OhosPixelMapInfo 下一篇 Region 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。

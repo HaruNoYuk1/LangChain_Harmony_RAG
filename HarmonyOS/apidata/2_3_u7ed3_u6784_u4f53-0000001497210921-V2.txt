@@ -1,0 +1,4 @@
+您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。结构体 更新时间: 2024-02-07 14:08 毫无帮助帮助不大一般很好非常好
+分享
+    OH_Drawing_BitmapFormat  OH_NativeBuffer_Config  OH_NativeXComponent_Callback  OH_NativeXComponent_MouseEvent  OH_NativeXComponent_MouseEvent_Callback  OH_NativeXComponent_TouchEvent  OH_NativeXComponent_TouchPoint  OHExtDataHandle  OHHDRMetaData  OhosPixelMapInfo  RawFileDescriptor  Region  Rect  OH_AI_CallBackParam  OH_AI_ShapeInfo  OH_AI_TensorHandleArray  OH_NN_Memory  OH_NN_QuantParam  OH_NN_Tensor  OH_NN_UInt32Array  OH_AVCodecAsyncCallback  OH_AVCodecBufferAttr  OH_Huks_Blob  OH_Huks_CertChain  OH_Huks_KeyInfo  OH_Huks_KeyMaterial25519  OH_Huks_KeyMaterialDh  OH_Huks_KeyMaterialDsa  OH_Huks_KeyMaterialEcc  OH_Huks_KeyMaterialRsa  OH_Huks_Param  OH_Huks_ParamSet  OH_Huks_PubKeyInfo  OH_Huks_Result   上一篇 native_huks_type.h 下一篇 OH_Drawing_BitmapFormat 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。

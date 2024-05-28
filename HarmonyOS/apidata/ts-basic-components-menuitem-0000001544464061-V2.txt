@@ -1,0 +1,7 @@
+您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。子组件接口MenuItemOptions类型说明属性事件示例MenuItem 更新时间: 2024-03-18 17:33 毫无帮助帮助不大一般很好非常好
+分享
+ 用来展示菜单Menu中具体的item菜单项。 
+说明
+ 该组件从API Version 9开始支持。后续版本如有新增内容，则采用上角标单独标记该内容的起始版本。 
+ 子组件无  接口MenuItem(value?: MenuItemOptions| CustomBuilder) 参数： 参数 类型 必填 参数描述   value MenuItemOptions | CustomBuilder 否 包含设置MenuItem的各项信息。     MenuItemOptions类型说明 名称 类型 必填 描述   startIcon ResourceStr 否 item中显示在左侧的图标信息路径。  content ResourceStr 是 item的内容信息。  endIcon ResourceStr 否 item中显示在右侧的图标信息路径。  labelInfo ResourceStr 否 定义结束标签信息，如快捷方式Ctrl+C等。  builder CustomBuilder 否 用于构建二级菜单。     属性除支持通用属性外，还支持以下属性: 名称 参数类型 描述   selected boolean 设置菜单项是否选中。 默认值：false   selectIcon boolean 当菜单项被选中时，是否显示被选中的图标。     事件 名称 参数类型 描述   onChange (selected: boolean) => void 当选中状态发生变化时，触发该回调。只有手动触发且MenuItem状态改变时才会触发onChange回调。 - value为true时，表示已选中。 - value为false时，表示未选中。      示例详见Menu组件示例。   上一篇 Menu 下一篇 MenuItemGroup 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。

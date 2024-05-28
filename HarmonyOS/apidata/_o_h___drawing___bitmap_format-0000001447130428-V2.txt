@@ -1,0 +1,4 @@
+您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。概述汇总成员变量结构体成员变量说明alphaFormatcolorFormatOH_Drawing_BitmapFormat 更新时间: 2024-02-07 14:08 毫无帮助帮助不大一般很好非常好
+分享
+  概述结构体用于描述位图像素的格式，包括颜色类型和透明度类型 起始版本： 8 相关模块： Drawing  汇总 成员变量  成员变量名称 描述 colorFormat 描述位图像素的透明度分量  alphaFormat 描述位图像素的存储格式     结构体成员变量说明 alphaFormat已复制OH_Drawing_AlphaFormat OH_Drawing_BitmapFormat::alphaFormat 描述： 描述位图像素的透明度分量  colorFormat已复制OH_Drawing_ColorFormat OH_Drawing_BitmapFormat::colorFormat 描述： 描述位图像素的存储格式   上一篇 结构体 下一篇 OH_NativeBuffer_Config 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。

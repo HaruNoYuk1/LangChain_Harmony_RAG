@@ -1,0 +1,4 @@
+您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。应用生命周期4+app.js 更新时间: 2024-03-18 17:33 毫无帮助帮助不大一般很好非常好
+分享
+ 应用生命周期4+每个应用可以在app.js自定义应用级生命周期的实现逻辑，包括： onCreate：在应用生成时被调用的生命周期函数。 onDestroy：在应用销毁时被调用的生命周期函数。  以下示例仅在生命周期函数中打印对应日志： 已复制// app.jsexport default {  onCreate() {    console.info('Application onCreate');  },  onDestroy() {    console.info('Application onDestroy');  },}   上一篇 js标签配置 下一篇 语法 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。

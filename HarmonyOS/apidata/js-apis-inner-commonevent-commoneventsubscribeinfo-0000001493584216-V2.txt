@@ -1,0 +1,4 @@
+您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。CommonEventSubscribeInfo 更新时间: 2024-03-18 17:33 毫无帮助帮助不大一般很好非常好
+分享
+ 系统能力： SystemCapability.Notification.CommonEvent 名称 类型 可读 可写 说明   events Array<string> 是 否 表示要发送的公共事件。  publisherPermission string 是 否 表示发布者的权限。  publisherDeviceId string 是 否 表示设备ID，该值必须是同一ohos网络上的现有设备ID。  userId number 是 否 表示用户ID。此参数是可选的，默认值当前用户的ID。如果指定了此参数，则该值必须是系统中现有的用户ID。  priority number 是 否 表示订阅者的优先级。值的范围是-100到1000。     上一篇 CommonEventSubscriber 下一篇 notification 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。

@@ -1,0 +1,4 @@
+您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。概述汇总结构体枚举函数image_pixel_map_napi.h 更新时间: 2024-02-07 14:08 毫无帮助帮助不大一般很好非常好
+分享
+ 概述声明可以锁定并访问pixelmap数据的方法，声明解锁的方法。 起始版本： 8 相关模块： Image  汇总 结构体  名称  描述  OhosPixelMapInfo  用于定义 pixel map 的相关信息。      枚举  名称  描述  { OHOS_IMAGE_RESULT_SUCCESS = 0, OHOS_IMAGE_RESULT_BAD_PARAMETER = -1 }  函数方法返回值的错误码的枚举。   { OHOS_PIXEL_MAP_FORMAT_NONE = 0, OHOS_PIXEL_MAP_FORMAT_RGBA_8888 = 3, OHOS_PIXEL_MAP_FORMAT_RGB_565 = 2 }  pixel 格式的枚举。      函数  名称  描述  OH_GetImageInfo (napi_env env, napi_value value, OhosPixelMapInfo *info)  获取 PixelMap 的信息，并记录信息到OhosPixelMapInfo结构中。   OH_AccessPixels (napi_env env, napi_value value, void **addrPtr)  获取PixelMap对象数据的内存地址，并锁定该内存。   OH_UnAccessPixels (napi_env env, napi_value value)  释放PixelMap对象数据的内存锁, 用于匹配方法OH_AccessPixels。       上一篇 external_window.h 下一篇 log.h 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。

@@ -1,0 +1,4 @@
+您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。UI界面 更新时间: 2024-03-18 17:33 毫无帮助帮助不大一般很好非常好
+分享
+    @ohos.animator (动画)  @ohos.curves (插值计算)  @ohos.matrix4 (矩阵变换)  @ohos.mediaquery (媒体查询)  @ohos.promptAction (弹窗)  @ohos.router (页面路由)  @ohos.font (注册自定义字体)  @ohos.measure (文本计算)   上一篇 Metadata 下一篇 @ohos.animator (动画) 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。

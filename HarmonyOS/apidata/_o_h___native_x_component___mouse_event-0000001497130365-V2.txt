@@ -1,0 +1,4 @@
+您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。概述汇总成员变量OH_NativeXComponent_MouseEvent 更新时间: 2024-02-07 14:08 毫无帮助帮助不大一般很好非常好
+分享
+  概述鼠标事件。 起始版本： 9 相关模块： Native XComponent  汇总 成员变量  成员变量名称 描述 x = 0.0 点击触点相对于当前组件左上角的x轴坐标。  y = 0.0 点击触点相对于当前组件左上角的y轴坐标。  screenX = 0.0 点击触点相对于XComponent所在应用窗口左上角的x轴坐标。  screenY = 0.0 点击触点相对于XComponent所在应用窗口左上角的y轴坐标。  timestamp = 0 当前鼠标事件的时间戳。  action = OH_NativeXComponent_MouseEventAction::OH_NATIVEXCOMPONENT_MOUSE_NONE 当前鼠标事件动作。  button = OH_NativeXComponent_MouseEventButton::OH_NATIVEXCOMPONENT_NONE_BUTTON 鼠标事件按键。      上一篇 OH_NativeXComponent_Callback 下一篇 OH_NativeXComponent_MouseEvent_Callback 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。

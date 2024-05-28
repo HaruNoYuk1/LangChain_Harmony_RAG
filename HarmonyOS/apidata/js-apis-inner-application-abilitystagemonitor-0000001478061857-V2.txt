@@ -1,0 +1,6 @@
+您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。AbilityStageMonitor 更新时间: 2024-03-18 17:33 毫无帮助帮助不大一般很好非常好
+分享
+ 提供用于匹配满足指定条件的受监视的AbilityStage对象的方法。最近匹配的AbilityStage对象将保存在AbilityStageMonitor对象中。  系统能力：以下各项对应的系统能力均为SystemCapability.Ability.AbilityRuntime.Core 名称 类型 可读 可写 说明   moduleName9+ string 是 是 要监视的abilityStage的模块名。  srcEntrance9+ string 是 是 要监视的abilityStage的源路径。    示例： 已复制import AbilityDelegatorRegistry from '@ohos.application.abilityDelegatorRegistry';
+let monitor = {    moduleName: 'feature_as1',    srcEntrance: './ets/Application/MyAbilityStage.ts',};
+let abilityDelegator = AbilityDelegatorRegistry.getAbilityDelegator();abilityDelegator.waitAbilityStageMonitor(monitor, (error, data) => {    console.info('stageMonitor waitAbilityStageMonitor, abilityStage = ' + JSON.stringify(data));});  上一篇 AbilityStateData 下一篇 ApplicationContext 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。

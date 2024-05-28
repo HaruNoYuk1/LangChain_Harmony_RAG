@@ -1,0 +1,7 @@
+您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。导入模块Ability.onConfigurationUpdateAbility.onMemoryLevel@ohos.app.ability.Ability (Ability基类) 更新时间: 2024-03-18 17:33 毫无帮助帮助不大一般很好非常好
+分享
+ UIAbility和ExtensionAbility的基类，提供系统配置更新回调和系统内存调整回调。 
+说明
+ 本模块首批接口从API version 9 开始支持。后续版本的新增接口，采用上角标单独标记接口的起始版本。 本模块接口仅可在Stage模型下使用。 
+ 导入模块已复制import Ability from '@ohos.app.ability.Ability';  Ability.onConfigurationUpdateonConfigurationUpdate(newConfig: Configuration): void; 当系统配置更新时调用。 系统能力：SystemCapability.Ability.AbilityRuntime.AbilityCore 参数： 参数名 类型 必填 说明   newConfig Configuration 是 表示需要更新的配置信息。    示例： 已复制class myAbility extends Ability {    onConfigurationUpdate(config) {        console.log('onConfigurationUpdate, config:' + JSON.stringify(config));    }}  Ability.onMemoryLevelonMemoryLevel(level: AbilityConstant.MemoryLevel): void; 当系统已决定调整内存时调用。例如，当该功能在后台运行时，没有足够的内存来运行尽可能多的后台进程时可以使用。 系统能力：SystemCapability.Ability.AbilityRuntime.AbilityCore 参数： 参数名 类型 必填 说明   level AbilityConstant.MemoryLevel 是 回调返回内存微调级别，显示当前内存使用状态。    示例： 已复制class myAbility extends Ability {  onMemoryLevel(level) {      console.log('onMemoryLevel, level:' + JSON.stringify(level));  } }   上一篇 Stage模型能力的接口(推荐) 下一篇 @ohos.app.ability.AbilityConstant (AbilityConstant) 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。

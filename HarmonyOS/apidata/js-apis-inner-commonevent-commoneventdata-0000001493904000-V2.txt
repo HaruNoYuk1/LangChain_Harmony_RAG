@@ -1,0 +1,4 @@
+您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。CommonEventData 更新时间: 2024-03-18 17:33 毫无帮助帮助不大一般很好非常好
+分享
+ 系统能力： SystemCapability.Notification.CommonEvent 名称 类型 可读 可写 说明   event string 是 否 表示当前接收的公共事件名称。  bundleName string 是 否 表示包名称。  code number 是 否 表示公共事件的结果代码，用于传递int类型的数据。  data string 是 否 表示公共事件的自定义结果数据，用于传递string类型的数据。  parameters {[key: string]: any} 是 否 表示公共事件的附加信息。     上一篇 commonEvent 下一篇 CommonEventPublishData 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。

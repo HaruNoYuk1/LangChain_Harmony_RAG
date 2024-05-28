@@ -1,0 +1,7 @@
+您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。属性使用说明PermissionRequestResult 更新时间: 2024-03-18 17:33 毫无帮助帮助不大一般很好非常好
+分享
+  权限请求结果对象，在调用requestPermissionsFromUser申请权限时返回此对象表明此次权限申请的结果。 
+说明
+ 本模块首批接口从API version 9开始支持。后续版本的新增接口，采用上角标单独标记接口的起始版本。 本模块接口仅可在Stage模型下使用。 
+  属性 系统能力：以下各项对应的系统能力均为SystemCapability.Security.AccessToken     名称 类型 可读 可写 说明    permissions Array<string> 是 否 用户传入的权限。   authResults Array<number> 是 否 相应请求权限的结果： - -1：未授权，表示权限已设置，无需弹窗，需要用户在"设置"中修改。 - 0：已授权。 - 2：未授权，表示请求无效，可能原因有： -未在设置文件中声明目标权限。 -权限名非法。 -部分权限存在特殊申请条件，在申请对应权限时未满足其指定的条件，见ohos.permission.LOCATION与ohos.permission.APPROXIMATELY_LOCATION      使用说明 通过atManager实例来获取。 示例： 已复制import abilityAccessCtrl from '@ohos.abilityAccessCtrl';let atManager = abilityAccessCtrl.createAtManager();try {  atManager.requestPermissionsFromUser(this.context, ["ohos.permission.CAMERA"]).then((data) => {      console.info("data:" + JSON.stringify(data));      console.info("data permissions:" + data.permissions);      console.info("data authResults:" + data.authResults);  }).catch((err) => {      console.info("data:" + JSON.stringify(err));  })} catch(err) {  console.log(`catch err->${JSON.stringify(err)}`);}   上一篇 security 下一篇 数据管理 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。

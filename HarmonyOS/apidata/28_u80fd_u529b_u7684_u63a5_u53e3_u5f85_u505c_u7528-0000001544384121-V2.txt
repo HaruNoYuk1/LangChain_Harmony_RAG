@@ -1,0 +1,4 @@
+您正在浏览HarmonyOS开发者3.1/4.0版本配套的开发者文档，对应API能力级别为API 9 Release，详细版本配套关系请参考版本说明。通用能力的接口(待停用) 更新时间: 2024-03-18 17:33 毫无帮助帮助不大一般很好非常好
+分享
+    @ohos.ability.dataUriUtils (DataUriUtils模块)  @ohos.ability.errorCode (ErrorCode)  @ohos.ability.wantConstant (wantConstant)  @ohos.application.abilityDelegatorRegistry (AbilityDelegatorRegistry)  @ohos.application.appManager (appManager)  @ohos.application.Configuration (Configuration)  @ohos.application.ConfigurationConstant (ConfigurationConstant)  @ohos.application.formBindingData (卡片数据绑定类)  @ohos.application.formError (FormError)  @ohos.application.formInfo (FormInfo)  @ohos.application.formProvider (FormProvider)  @ohos.application.Want (Want)  @ohos.wantAgent (WantAgent模块)   上一篇 @ohos.app.form.formProvider (FormProvider) 下一篇 @ohos.ability.dataUriUtils (DataUriUtils模块) 以上内容对您是否有帮助？毫无帮助帮助不大一般很好非常好意见反馈
+更多帮助请到“社区论坛”，如需要其他帮助，请通过“智能客服”提问。
