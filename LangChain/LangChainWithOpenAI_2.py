@@ -4,7 +4,7 @@ from langchain_community.vectorstores import Chroma
 from langchain_openai import OpenAIEmbeddings
 
 # 创建嵌入引擎
-embeddings = OpenAIEmbeddings(api_key="sk-fLqXjq45njgS8bd641190c879149425eBd99Eb7649DbD173",
+embeddings = OpenAIEmbeddings(api_key="",
                               base_url='https://api.gptniux.com/v1')
 
 persist_directory = 'docs/chroma/'
